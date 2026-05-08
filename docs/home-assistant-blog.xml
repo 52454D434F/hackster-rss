@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Home Assistant Blog</title>
+    <link>https://www.home-assistant.io/blog/</link>
+    <description>Official blog of the Home Assistant project</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 May 2026 19:11:23 +0000</lastBuildDate>
+    <item>
+      <title>2026.2: Home, sweet overview</title>
+      <link>https://www.home-assistant.io/blog/2026/02/04/release-20262/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.2: Home, sweet overview" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;February is the month of love, and this release is here to share it!&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/02/04/release-20262/</guid>
+      <category>Core</category>
+      <category>Release-Notes</category>
+      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Open Home Foundation merch store is here!</title>
+      <link>https://www.home-assistant.io/blog/2026/02/19/open-home-foundation-merch-store-announcement/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/balloob?size=64" alt="The Open Home Foundation merch store is here!" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Yes, the day has finally arrived: theOpen Home Foundation merch storeis up and running! 🥳 While some of you have tracked it down already (and are wearing the T-shirts to prove it!), we wanted to share it officially with the whole community so no one misses the chance to get involved.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/02/19/open-home-foundation-merch-store-announcement/</guid>
+      <category>Announcements</category>
+      <enclosure url="https://avatars.githubusercontent.com/balloob?size=64" length="0" type="image/webp"/>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heiman joins Works with Home Assistant</title>
+      <link>https://www.home-assistant.io/blog/2026/02/24/heiman-joins-works-with-home-assistant/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="Heiman joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;After an amazing 2025 that saw12 new Works with Home Assistant partnersjoin the program, it’s now time to say “Hei” to the first partner joining us this year:Heiman.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/02/24/heiman-joins-works-with-home-assistant/</guid>
+      <category>Works-with-Home-Assistant</category>
+      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
+      <pubDate>Tue, 24 Feb 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026.3: A clean sweep</title>
+      <link>https://www.home-assistant.io/blog/2026/03/04/release-20263/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.3: A clean sweep" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;After last month’s massive release, this one is a nice and relaxed one. We took
+a step back from the big headline features and fully focused on something
+equally important: getting the amazing contributions from our community
+reviewed, polished, and merged. 💚&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/03/04/release-20263/</guid>
+      <category>Core</category>
+      <category>Release-Notes</category>
+      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heatit joins Works with Home Assistant</title>
+      <link>https://www.home-assistant.io/blog/2026/03/24/heatit-joins-works-with-home-assistant/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="Heatit joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;We’re thrilled to extend a very warm (ahem) Works with Home Assistant welcome toHeatit! As the name suggests, Heatit are all about keeping you, and your home, warm. They specialize in smart climate and heating control, which might have something to do with the fact they’re based in Norway, where energy management is a big reason people turn toHome Assistant, as winter temperatures can dip to below -20°C!&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/03/24/heatit-joins-works-with-home-assistant/</guid>
+      <category>Works-with-Home-Assistant</category>
+      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
+      <pubDate>Tue, 24 Mar 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modernizing encryption of Home Assistant backups</title>
+      <link>https://www.home-assistant.io/blog/2026/03/26/modernizing-encryption-of-home-assistant-backups/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/emontnemery?size=64" alt="Modernizing encryption of Home Assistant backups" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Backups are one of those quiet, powerful features: when they work, you don’t notice them, but when you need them, they’re everything. We’ve evolved Home Assistant’s built-in backup format over the years to keep it safe and secure, especially when backing up to remote locations. As modern cryptography has advanced, we needed to build a system to match. SecureTar v3 is a purpose-built library for creating and reading password-protected Home Assistant backups with modern cryptography and safer, stronger defaults.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/03/26/modernizing-encryption-of-home-assistant-backups/</guid>
+      <category>Announcements</category>
+      <enclosure url="https://avatars.githubusercontent.com/emontnemery?size=64" length="0" type="image/webp"/>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026.4: Infrared never left the chat</title>
+      <link>https://www.home-assistant.io/blog/2026/04/01/release-20264/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.4: Infrared never left the chat" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;I’ll be honest: when I first heard the pitch forinfrared supportin Home Assistant, I wasn’t exactly jumping out of my chair. Infrared? That’s old tech! But that’sexactlythe point. Think about how many TVs, air conditioners, and other appliances sitting in your homeright nowhave an infrared receiver but no smart features whatsoever. With this release, all of those devices can get a smart future, showing up as actual, controllable devices in Home Assistant. Turns out, old tech can learn some very new tricks. 📡&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/04/01/release-20264/</guid>
+      <category>Core</category>
+      <category>Release-Notes</category>
+      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ubisys joins Works with Home Assistant</title>
+      <link>https://www.home-assistant.io/blog/2026/04/23/ubisys-joins-works-with-home-assistant/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="ubisys joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;We’re thrilled to welcomeubisysto Works with Home Assistant! This German company has been dedicated to smart home automation for more than 20 years, and offers a range of Zigbee devices designed to help you retrofit your home. If retrofitting is conjuring up images of avocado bathrooms 🥑 and artexed ceilings, fear not – it just means upgrading what you already have, rather than ripping it out and starting again. Better for your home, and the planet 🌍.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/04/23/ubisys-joins-works-with-home-assistant/</guid>
+      <category>Works-with-Home-Assistant</category>
+      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
+      <pubDate>Thu, 23 Apr 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>BEGA joins Works with Home Assistant</title>
+      <link>https://www.home-assistant.io/blog/2026/05/05/bega-joins-works-with-home-assistant/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="BEGA joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;How do you more or less double the number of Works with Home Assistant-certified devices available to our community? HaveBEGAjoin the program! This German firm has spent more than 75 years designing a wide range of architectural lighting that sets the industry standard: and now they’re bringing that expertise to your smart home.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/05/05/bega-joins-works-with-home-assistant/</guid>
+      <category>Works-with-Home-Assistant</category>
+      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
+      <pubDate>Tue, 05 May 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026.5: We're on the same frequency now 📡</title>
+      <link>https://www.home-assistant.io/blog/2026/05/06/release-20265/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.5: We're on the same frequency now 📡" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;What a few weeks it has been! Earlier this month, we hostedState of the Open Home 2026live in Utrecht, the Netherlands. A big chunk of that day was dedicated to something we deeply care about:building in the open, and how we’re going to take that even further from here on out. 💙&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/05/06/release-20265/</guid>
+      <category>Core</category>
+      <category>Release-Notes</category>
+      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
