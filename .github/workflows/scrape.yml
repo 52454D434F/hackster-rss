@@ -3,7 +3,7 @@ name: Scrape Hackster.io RSS Feed
 on:
   schedule:
     # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 8-22/2 * * *"
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 permissions:
