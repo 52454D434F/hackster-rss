@@ -31,11 +31,14 @@ jobs:
       - name: Run 1440 Science & Technology scraper
         run: python scrape_1440.py
 
+      - name: Run Home Assistant Blog scraper
+        run: python scrape_homeassistant.py
+
       - name: Commit and push feed files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml docs/1440-science-technology.xml
+          git add docs/feed.xml docs/1440-science-technology.xml docs/home-assistant-blog.xml
           # Only commit if there are actual changes
           git diff --staged --quiet || git commit -m "chore: update feeds [skip ci]"
           git push
