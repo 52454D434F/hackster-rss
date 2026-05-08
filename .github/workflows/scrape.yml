@@ -25,17 +25,20 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 feedgen
 
-      - name: Run Hackster.io scraper
+      - name: Run Hackster.io News scraper
         run: python scrape.py
 
       - name: Run 1440 Science & Technology scraper
         run: python scrape_1440.py
 
+      - name: Run Hackster.io Projects scrapers (IoT + Home Automation)
+        run: python scrape_hackster_projects.py
+
       - name: Commit and push feed files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml docs/1440-science-technology.xml
+          git add docs/
           # Only commit if there are actual changes
           git diff --staged --quiet || git commit -m "chore: update feeds [skip ci]"
           git push
