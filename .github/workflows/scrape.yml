@@ -1,8 +1,8 @@
-name: Scrape Hackster.io RSS Feed
+name: Scrape RSS Feeds
 
 on:
   schedule:
-    # Runs every 2 hours
+    # Every 2 hours between 8:00 and 22:00 UTC
     - cron: "0 8-22/2 * * *"
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
@@ -25,14 +25,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 feedgen
 
-      - name: Run scraper
+      - name: Run Hackster.io scraper
         run: python scrape.py
 
-      - name: Commit and push feed.xml
+      - name: Run 1440 Science & Technology scraper
+        run: python scrape_1440.py
+
+      - name: Commit and push feed files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml
+          git add docs/feed.xml docs/1440-science-technology.xml
           # Only commit if there are actual changes
-          git diff --staged --quiet || git commit -m "chore: update feed.xml [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: update feeds [skip ci]"
           git push
