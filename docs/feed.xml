@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 15:00:01 +0000</lastBuildDate>
-    <item>
-      <title>This BattleBots-Inspired Spinning Robot Claw Swaps a Trophy for a Coffee Cup</title>
-      <link>https://www.hackster.io/news/this-battlebots-inspired-spinning-robot-claw-swaps-a-trophy-for-a-coffee-cup-410f480bac72</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956760/_riE0c3l9Li.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This BattleBots-Inspired Spinning Robot Claw Swaps a Trophy for a Coffee Cup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A five-fingered 15-motor robot hand, powered by a Raspberry Pi, has only one job: continuously rotate a coffee cup.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/this-battlebots-inspired-spinning-robot-claw-swaps-a-trophy-for-a-coffee-cup-410f480bac72</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956760/_riE0c3l9Li.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Easy Glitch Photography with a Raspberry Pi</title>
-      <link>https://www.hackster.io/news/easy-glitch-photography-with-a-raspberry-pi-02a2b1b91e21</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956510/_0C3mRj1PKZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Easy Glitch Photography with a Raspberry Pi" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Sharkbiscuit101 used a Raspberry Pi to build this glitch photography camera.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/easy-glitch-photography-with-a-raspberry-pi-02a2b1b91e21</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956510/_0C3mRj1PKZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 16:45:22 +0000</lastBuildDate>
     <item>
       <title>PINE64 Warns of PinePower Desktop V2 "0V" Flaw — But Says It's Purely a Display Issue</title>
       <link>https://www.hackster.io/news/pine64-warns-of-pinepower-desktop-v2-0v-flaw-but-says-it-s-purely-a-display-issue-f195d173f4a4</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956778/_JDZUx5MQgg.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="PINE64 Warns of PinePower Desktop V2 "0V" Flaw — But Says It's Purely a Display Issue" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Clever desktop power supply has a firmware flaw — which users can't easily fix themselves — resulting in incorrect voltage display.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/pine64-warns-of-pinepower-desktop-v2-0v-flaw-but-says-it-s-purely-a-display-issue-f195d173f4a4</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1956778/_JDZUx5MQgg.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 16:45:23 +0000</pubDate>
     </item>
     <item>
       <title>Les Cookson's Swap Arcade Hides a Full-Size Arcade Cabinet in a Compact Piece of Furniture</title>
@@ -38,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956801/_96eHWbPQ3u.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Les Cookson's Swap Arcade Hides a Full-Size Arcade Cabinet in a Compact Piece of Furniture" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Folding cabinet means you can have your classic arcade gaming whenever you like, without making it the center of attention in your room.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/les-cookson-s-swap-arcade-hides-a-full-size-arcade-cabinet-in-a-compact-piece-of-furniture-5df2f6a26c18</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1956801/_96eHWbPQ3u.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 16:45:23 +0000</pubDate>
     </item>
     <item>
       <title>Alexis Belmonte's Companion Cyberdeck Is a Slick, Modern Take on the Classic TRS-80 Model 100</title>
@@ -46,7 +30,23 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956788/_Q5hCcEHKKi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Alexis Belmonte's Companion Cyberdeck Is a Slick, Modern Take on the Classic TRS-80 Model 100" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Smooth, clean case houses very modern components including an ultrawide touchscreen display and a Raspberry Pi 5 16GB.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/alexis-belmonte-s-companion-cyberdeck-is-a-slick-modern-take-on-the-classic-trs-80-model-100-7c800064933d</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1956788/_Q5hCcEHKKi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 16:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unitree Launches the GD01 Pilotable Mecha Suit</title>
+      <link>https://www.hackster.io/news/unitree-launches-the-gd01-pilotable-mecha-suit-c51ce07925f2</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956859/_L2NVdIJqjk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Unitree Launches the GD01 Pilotable Mecha Suit" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Unitree’s $650,000 mecha suit turns sci-fi into a 500kg, pilotable reality that walks, crawls, and smashes through walls.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/unitree-launches-the-gd01-pilotable-mecha-suit-c51ce07925f2</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956859/_L2NVdIJqjk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 16:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keep Tabs on Claude with the Cute, Animated Clawdmeter</title>
+      <link>https://www.hackster.io/news/keep-tabs-on-claude-with-the-cute-animated-clawdmeter-744383d44094</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956869/_FHVUvBsA78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Keep Tabs on Claude with the Cute, Animated Clawdmeter" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Keep a close eye on your Claude Code tokens with Clawdmeter, an ESP32-powered desktop companion featuring cute pixel-art animations.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/keep-tabs-on-claude-with-the-cute-animated-clawdmeter-744383d44094</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956869/_FHVUvBsA78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 16:45:22 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 16:45:22 +0000</pubDate>
     </item>
     <item>
       <title>A Credit Card-Sized Computer</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1955383/_t7vRMHYGPp.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="A Credit Card-Sized Computer" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Muxcard is a fully functional 1mm-thick computer with an ESP32 and an E Ink display that fits in your wallet.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/a-credit-card-sized-computer-a4f96f09f04f</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1955383/_t7vRMHYGPp.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 16:45:22 +0000</pubDate>
     </item>
     <item>
       <title>Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1952586/_2wQv90zY8l.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Available in Python-only or with an integrated Docker container of your choice, the new Custom Bricks make App Lab a lot more flexible.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/arduino-updates-its-uno-q-ventuno-q-app-lab-to-bring-custom-bricks-support-for-modular-making-6f22c2e1d500</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1952586/_2wQv90zY8l.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 15:00:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 16:45:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
