@@ -7,46 +7,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 10:50:12 +0000</lastBuildDate>
-    <item>
-      <title>This Power Bank Can Run Your Entire Mobile Office</title>
-      <link>https://www.hackster.io/news/this-power-bank-can-run-your-entire-mobile-office-9dd71be960f2</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956391/_MQTiLiwxji.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Power Bank Can Run Your Entire Mobile Office" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Omnibus 4X8 is a beastly 414 Wh DIY power bank built for serious techies who demand extreme hardware performance.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/this-power-bank-can-run-your-entire-mobile-office-9dd71be960f2</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956391/_MQTiLiwxji.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>DecayDock: The Tiny AI Device That Combats Food Waste</title>
-      <link>https://www.hackster.io/news/decaydock-the-tiny-ai-device-that-combats-food-waste-3a34ddad9cbf</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956414/_96W6dYDBv1.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="DecayDock: The Tiny AI Device That Combats Food Waste" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;DecayDock uses an ESP32-CAM and local AI to track the freshness of food in your fridge and prevent waste.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/decaydock-the-tiny-ai-device-that-combats-food-waste-3a34ddad9cbf</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956414/_96W6dYDBv1.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Secret Life of the Fisher-Price Pixter</title>
-      <link>https://www.hackster.io/news/the-secret-life-of-the-fisher-price-pixter-db3c1aa5aa39</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956479/_4UlAaOlAEr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Secret Life of the Fisher-Price Pixter" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Dmitry Grinberg reverse-engineered the Fisher-Price Pixter, revealing some bizarre engineering hidden inside the 2000s-era toy.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/the-secret-life-of-the-fisher-price-pixter-db3c1aa5aa39</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956479/_4UlAaOlAEr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Mod Gives Inline Skates Reactive LED Effects</title>
-      <link>https://www.hackster.io/news/this-mod-gives-inline-skates-reactive-led-effects-31678516876b</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956494/_CDnsWarpyi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Mod Gives Inline Skates Reactive LED Effects" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Inline skates (NOT Rollerblades) were always missing something: reactive RGB LED lighting effects like these.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/this-mod-gives-inline-skates-reactive-led-effects-31678516876b</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956494/_CDnsWarpyi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 12:40:20 +0000</lastBuildDate>
     <item>
       <title>Encrypt Secret Messages to be Unlockable Under the Right Environmental Conditions</title>
       <link>https://www.hackster.io/news/encrypt-secret-messages-to-be-unlockable-under-the-right-environmental-conditions-6a83d596b258</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956528/_7aPyVpQsYG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Encrypt Secret Messages to be Unlockable Under the Right Environmental Conditions" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;This device by Tim C encrypts secret messages with keys derived from environmental data.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/encrypt-secret-messages-to-be-unlockable-under-the-right-environmental-conditions-6a83d596b258</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1956528/_7aPyVpQsYG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:13 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 12:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Only Backseat Driver You’ll Actually Want Is a Robot</title>
+      <link>https://www.hackster.io/news/the-only-backseat-driver-you-ll-actually-want-is-a-robot-1a70c4ffcc42</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956538/_CEw5dDsnfs.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Only Backseat Driver You’ll Actually Want Is a Robot" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The HumanoidTurk project uses a general-purpose robot to provide immersive VR haptic feedback by physically moving the player’s chair.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/the-only-backseat-driver-you-ll-actually-want-is-a-robot-1a70c4ffcc42</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956538/_CEw5dDsnfs.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 12:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>This BattleBots-Inspired Spinning Robot Claw Swaps a Trophy for a Coffee Cup</title>
+      <link>https://www.hackster.io/news/this-battlebots-inspired-spinning-robot-claw-swaps-a-trophy-for-a-coffee-cup-410f480bac72</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956760/_riE0c3l9Li.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This BattleBots-Inspired Spinning Robot Claw Swaps a Trophy for a Coffee Cup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A five-fingered 15-motor robot hand, powered by a Raspberry Pi, has only one job: continuously rotate a coffee cup.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/this-battlebots-inspired-spinning-robot-claw-swaps-a-trophy-for-a-coffee-cup-410f480bac72</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956760/_riE0c3l9Li.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 12:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Easy Glitch Photography with a Raspberry Pi</title>
+      <link>https://www.hackster.io/news/easy-glitch-photography-with-a-raspberry-pi-02a2b1b91e21</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956510/_0C3mRj1PKZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Easy Glitch Photography with a Raspberry Pi" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Sharkbiscuit101 used a Raspberry Pi to build this glitch photography camera.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/easy-glitch-photography-with-a-raspberry-pi-02a2b1b91e21</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956510/_0C3mRj1PKZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 12:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>PINE64 Warns of PinePower Desktop V2 "0V" Flaw — But Says It's Purely a Display Issue</title>
+      <link>https://www.hackster.io/news/pine64-warns-of-pinepower-desktop-v2-0v-flaw-but-says-it-s-purely-a-display-issue-f195d173f4a4</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956778/_JDZUx5MQgg.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="PINE64 Warns of PinePower Desktop V2 "0V" Flaw — But Says It's Purely a Display Issue" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Clever desktop power supply has a firmware flaw — which users can't easily fix themselves — resulting in incorrect voltage display.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/pine64-warns-of-pinepower-desktop-v2-0v-flaw-but-says-it-s-purely-a-display-issue-f195d173f4a4</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956778/_JDZUx5MQgg.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 12:40:21 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:13 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 12:40:20 +0000</pubDate>
     </item>
     <item>
       <title>A Credit Card-Sized Computer</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1955383/_t7vRMHYGPp.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="A Credit Card-Sized Computer" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Muxcard is a fully functional 1mm-thick computer with an ESP32 and an E Ink display that fits in your wallet.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/a-credit-card-sized-computer-a4f96f09f04f</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1955383/_t7vRMHYGPp.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:12 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 12:40:20 +0000</pubDate>
     </item>
     <item>
       <title>Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1952586/_2wQv90zY8l.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Available in Python-only or with an integrated Docker container of your choice, the new Custom Bricks make App Lab a lot more flexible.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/arduino-updates-its-uno-q-ventuno-q-app-lab-to-bring-custom-bricks-support-for-modular-making-6f22c2e1d500</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1952586/_2wQv90zY8l.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 10:50:12 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 12:40:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
