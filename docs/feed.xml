@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 12:34:05 +0000</lastBuildDate>
-    <item>
-      <title>This DIY Arduino System Automatically Documents Projects for Publishing</title>
-      <link>https://www.hackster.io/news/this-diy-arduino-system-automatically-documents-projects-for-publishing-05b6f5958a63</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956964/_0pOD8eb5yj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This DIY Arduino System Automatically Documents Projects for Publishing" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Kevin McAleer was tired of the slog, so he built this system that automatically documents his projects.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/this-diy-arduino-system-automatically-documents-projects-for-publishing-05b6f5958a63</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1956964/_0pOD8eb5yj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RTL-SDR.COM Announces the End of the Line for Its Popular RTL-SDR Blog V4 Software-Defined Radio</title>
-      <link>https://www.hackster.io/news/rtl-sdr-com-announces-the-end-of-the-line-for-its-popular-rtl-sdr-blog-v4-software-defined-radio-76f628f18e0d</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1957144/_q1jZvVJPGk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="RTL-SDR.COM Announces the End of the Line for Its Popular RTL-SDR Blog V4 Software-Defined Radio" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;An out-of-production chip means going back to the weaker RTL-SDR Blog V3 design, but work is underway on an RTL-SDR Blog V3 Lite.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/rtl-sdr-com-announces-the-end-of-the-line-for-its-popular-rtl-sdr-blog-v4-software-defined-radio-76f628f18e0d</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1957144/_q1jZvVJPGk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 14:50:59 +0000</lastBuildDate>
     <item>
       <title>Neon Lamps Acts as RNGs for Hashing</title>
       <link>https://www.hackster.io/news/neon-lamps-acts-as-rngs-for-hashing-ea48e4e10c26</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1956993/_iVx5fVHsEf.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Neon Lamps Acts as RNGs for Hashing" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Joshua Coleman chose neon lamp light emission as the basis for his nifty hardware random number generator.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/neon-lamps-acts-as-rngs-for-hashing-ea48e4e10c26</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1956993/_iVx5fVHsEf.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:06 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:51:00 +0000</pubDate>
     </item>
     <item>
       <title>Another Day, Another Local Privilege Escalation Vulnerability in Linux: Meet Fragnesia</title>
@@ -38,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1957157/_6yhvFJLhcO.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Another Day, Another Local Privilege Escalation Vulnerability in Linux: Meet Fragnesia" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A member of the Dirty Flag class of vulnerabilities, but using a different core bug, Fragnesia is yet another universal LPE.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/another-day-another-local-privilege-escalation-vulnerability-in-linux-meet-fragnesia-888a7dbbf644</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1957157/_6yhvFJLhcO.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:06 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:51:00 +0000</pubDate>
     </item>
     <item>
       <title>This '90s Casio PDA Is a High-Resolution, Surprisingly Powerful Pocket Sleeper Build</title>
@@ -46,7 +30,23 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1957174/_JhDXFheBW7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This '90s Casio PDA Is a High-Resolution, Surprisingly Powerful Pocket Sleeper Build" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Ever seen a Casio SF-5580 128kB digital personal organizer play YouTube videos?&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-90s-casio-pda-is-a-high-resolution-surprisingly-powerful-pocket-sleeper-build-8387c91817e6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1957174/_JhDXFheBW7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:06 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elliot Madsen's Pen Plotter Upcycles an Old 3D Printer Into Something New — with an Arduino UNO Q</title>
+      <link>https://www.hackster.io/news/elliot-madsen-s-pen-plotter-upcycles-an-old-3d-printer-into-something-new-with-an-arduino-uno-q-05fb82a45ed3</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1957184/_yD1OZdDbkA.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Elliot Madsen's Pen Plotter Upcycles an Old 3D Printer Into Something New — with an Arduino UNO Q" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;"Dual-brain" single-board computer handles both the Arduino sketch microcontroller and Python microprocessor halves of this project.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/elliot-madsen-s-pen-plotter-upcycles-an-old-3d-printer-into-something-new-with-an-arduino-uno-q-05fb82a45ed3</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1957184/_yD1OZdDbkA.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 May 2026 14:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Computing Doesn’t Have to Be Bland</title>
+      <link>https://www.hackster.io/news/mobile-computing-doesn-t-have-to-be-bland-725f1a083187</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1957210/_YXXx7LzJDD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Mobile Computing Doesn’t Have to Be Bland" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Orion PDA is a retro-inspired, solar-powered handheld for focused creators who’d rather get work done than doomscroll.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/mobile-computing-doesn-t-have-to-be-bland-725f1a083187</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1957210/_YXXx7LzJDD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 May 2026 14:51:00 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:06 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:51:00 +0000</pubDate>
     </item>
     <item>
       <title>A Credit Card-Sized Computer</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1955383/_t7vRMHYGPp.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="A Credit Card-Sized Computer" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Muxcard is a fully functional 1mm-thick computer with an ESP32 and an E Ink display that fits in your wallet.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/a-credit-card-sized-computer-a4f96f09f04f</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1955383/_t7vRMHYGPp.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:05 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:50:59 +0000</pubDate>
     </item>
     <item>
       <title>Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1952586/_2wQv90zY8l.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Available in Python-only or with an integrated Docker container of your choice, the new Custom Bricks make App Lab a lot more flexible.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/arduino-updates-its-uno-q-ventuno-q-app-lab-to-bring-custom-bricks-support-for-modular-making-6f22c2e1d500</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1952586/_2wQv90zY8l.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 12:34:05 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:50:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
