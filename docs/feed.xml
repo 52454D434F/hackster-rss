@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 16:57:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:34:34 +0000</lastBuildDate>
     <item>
       <title>Michał "lcamtuf" Zalewski's "Nicer Voltmeter Clock" Boasts Continuous Movement</title>
       <link>https://www.hackster.io/news/michal-lcamtuf-zalewski-s-nicer-voltmeter-clock-boasts-continuous-movement-f8d1345e3cf2</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958598/_WVJOC2DJeH.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Michał "lcamtuf" Zalewski's "Nicer Voltmeter Clock" Boasts Continuous Movement" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Powered by a Microchip AVR, with no digital to analog converters in sight, this desk accessory is a slick way to tell the time.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/michal-lcamtuf-zalewski-s-nicer-voltmeter-clock-boasts-continuous-movement-f8d1345e3cf2</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958598/_WVJOC2DJeH.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:07 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>Anthony Marsico's Modernized Take on the Telegraph Turns Morse Code Into MQTT Messages</title>
@@ -22,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958602/_owLd25SgUi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Anthony Marsico's Modernized Take on the Telegraph Turns Morse Code Into MQTT Messages" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Espressif ESP32-powered Wi-Fi telegraph can transmit clear across the world, thanks to the wonder of the internet.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/anthony-marsico-s-modernized-take-on-the-telegraph-turns-morse-code-into-mqtt-messages-7e4fc7f6d766</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958602/_owLd25SgUi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:07 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>This Tiny '90s IBM PC Is Actually a Modern E Ink Weather Station</title>
@@ -30,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958624/_Daz3QhEOem.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Tiny '90s IBM PC Is Actually a Modern E Ink Weather Station" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Oldputer is a weather station with a retro twist, putting an ESP32 and E Ink screen into a tiny, 3D-printed 1990s IBM PC.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-tiny-90s-ibm-pc-is-actually-a-modern-e-ink-weather-station-4dc61534df03</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958624/_Daz3QhEOem.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:07 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>Vanish Instantly with the Instant Vanishing Device</title>
@@ -38,7 +38,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958285/_nWcV5hQpjz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Vanish Instantly with the Instant Vanishing Device" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Caleb Rash built a Batman-style device that creates a thick cloud of smoke in a small enough area to conceal a person.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/vanish-instantly-with-the-instant-vanishing-device-30485f828fd8</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958285/_nWcV5hQpjz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:07 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>Windows CE Ported to Nintendo 64</title>
@@ -46,7 +46,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958643/_X5IKX9jmO2.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Windows CE Ported to Nintendo 64" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Windows running on a Nintendo 64? One hacker pulled it off, but you'd have a lot more fun playing GoldenEye.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/windows-ce-ported-to-nintendo-64-c4f3cc5de43c</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958643/_X5IKX9jmO2.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:07 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Say Hello to the Smart Mirror Powered by Arduino UNO Q</title>
+      <link>https://www.hackster.io/news/say-hello-to-the-smart-mirror-powered-by-arduino-uno-q-183232997036</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958704/_NKK7V1cEWG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Say Hello to the Smart Mirror Powered by Arduino UNO Q" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Get ready for the day with this smart mirror powered by an Arduino UNO Q — it displays your calendar, to-do list, and the weather forecast.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/say-hello-to-the-smart-mirror-powered-by-arduino-uno-q-183232997036</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1958704/_NKK7V1cEWG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
@@ -54,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:07 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
       <title>Mobile Computing Doesn’t Have to Be Bland</title>
@@ -62,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1957210/_YXXx7LzJDD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Mobile Computing Doesn’t Have to Be Bland" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Orion PDA is a retro-inspired, solar-powered handheld for focused creators who’d rather get work done than doomscroll.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/mobile-computing-doesn-t-have-to-be-bland-725f1a083187</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1957210/_YXXx7LzJDD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:06 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
       <title>Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June</title>
@@ -70,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958577/_du6o1xY3P4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Two years in the making, the move away from Arm's abandoned Mbed platform is nearly complete.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/arduino-core-on-zephyr-work-hits-a-new-milestone-prepares-to-exit-beta-in-june-1702a5aaf2b5</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958577/_du6o1xY3P4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:57:06 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 18:34:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
