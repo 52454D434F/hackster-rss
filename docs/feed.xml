@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 15:02:52 +0000</lastBuildDate>
-    <item>
-      <title>Canonical Launches Ubuntu Core 26, Its Latest Snap-Powered Immutable Operating System</title>
-      <link>https://www.hackster.io/news/canonical-launches-ubuntu-core-26-its-latest-snap-powered-immutable-operating-system-d641fda6e2bc</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958938/_arW8rE3MAh.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Canonical Launches Ubuntu Core 26, Its Latest Snap-Powered Immutable Operating System" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Core distribution comes with some major improvements since 2024, including a big reduction in OTA update sizes.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/canonical-launches-ubuntu-core-26-its-latest-snap-powered-immutable-operating-system-d641fda6e2bc</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1958938/_arW8rE3MAh.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 16:57:59 +0000</lastBuildDate>
     <item>
       <title>Building a Robot Arm From Scratch, But Doing it Right</title>
       <link>https://www.hackster.io/news/building-a-robot-arm-from-scratch-but-doing-it-right-618918943765</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958793/_av6OmUHSUU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Building a Robot Arm From Scratch, But Doing it Right" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Mirza's first robot arm disappointed him. So, he went back to the drawing board and built a better robot arm from scratch. &lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/building-a-robot-arm-from-scratch-but-doing-it-right-618918943765</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958793/_av6OmUHSUU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:54 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 16:58:44 +0000</pubDate>
     </item>
     <item>
       <title>If You Own Royal Enfield, You Can Use This OBD2 Dashboard</title>
@@ -30,15 +22,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958834/_z5FqaP4afz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="If You Own Royal Enfield, You Can Use This OBD2 Dashboard" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;David Moca developed an awesome digital dashboard for Royal Enfield motorcycles. &lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/if-you-own-royal-enfield-you-can-use-this-obd2-dashboard-9b865248200a</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958834/_z5FqaP4afz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:53 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 16:58:44 +0000</pubDate>
     </item>
     <item>
-      <title>Got the Time? Ben Leikin Does, Thanks to a Stratum-1 Timeserver Built From a Raspberry Pi</title>
-      <link>https://www.hackster.io/news/got-the-time-ben-leikin-does-thanks-to-a-stratum-1-timeserver-built-from-a-raspberry-pi-755764618216</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958944/_BbhzvXqBaO.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Got the Time? Ben Leikin Does, Thanks to a Stratum-1 Timeserver Built From a Raspberry Pi" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The pulse-per-second input on a Raspberry Pi, coupled with a $15 GPS receiver, means you've no excuse to be late again.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/got-the-time-ben-leikin-does-thanks-to-a-stratum-1-timeserver-built-from-a-raspberry-pi-755764618216</guid>
+      <title>Got the Time? Ben Leikin Does, Thanks to a Stratum-1 Time Server Built From a Raspberry Pi</title>
+      <link>https://www.hackster.io/news/got-the-time-ben-leikin-does-thanks-to-a-stratum-1-time-server-built-from-a-raspberry-pi-755764618216</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958944/_BbhzvXqBaO.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Got the Time? Ben Leikin Does, Thanks to a Stratum-1 Time Server Built From a Raspberry Pi" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The pulse-per-second input on a Raspberry Pi, coupled with a $15 GPS receiver, means you've no excuse to be late again.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/got-the-time-ben-leikin-does-thanks-to-a-stratum-1-time-server-built-from-a-raspberry-pi-755764618216</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958944/_BbhzvXqBaO.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:53 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 16:58:29 +0000</pubDate>
     </item>
     <item>
       <title>Tom Hammond's Two-in-One "Pixel Tester" Makes Testing Lighting Setups a Cinch</title>
@@ -46,23 +38,27 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958960/_WZhpqrVlK8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Tom Hammond's Two-in-One "Pixel Tester" Makes Testing Lighting Setups a Cinch" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;From its adjustable voltage output to its Espressif ESP32-powered lighting controller, the Pixel Tester has your troubleshooting covered.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/tom-hammond-s-two-in-one-pixel-tester-makes-testing-lighting-setups-a-cinch-40a03f226501</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958960/_WZhpqrVlK8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:53 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 16:58:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Rings Are Breaking Down Communication Barriers</title>
+      <link>https://www.hackster.io/news/ai-rings-are-breaking-down-communication-barriers-140bb60c9cf5</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958983/_GCXP5BVwpf.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="AI Rings Are Breaking Down Communication Barriers" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Yonsei University's wireless rings track finger gestures to translate sign language into speech in real time.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/ai-rings-are-breaking-down-communication-barriers-140bb60c9cf5</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1958983/_GCXP5BVwpf.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 16:58:29 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
       <link>https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:53 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 16:58:29 +0000</pubDate>
     </item>
     <item>
       <title>Mobile Computing Doesn’t Have to Be Bland</title>
       <link>https://www.hackster.io/news/mobile-computing-doesn-t-have-to-be-bland-725f1a083187</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1957210/_YXXx7LzJDD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Mobile Computing Doesn’t Have to Be Bland" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Orion PDA is a retro-inspired, solar-powered handheld for focused creators who’d rather get work done than doomscroll.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/mobile-computing-doesn-t-have-to-be-bland-725f1a083187</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1957210/_YXXx7LzJDD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:53 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 16:58:14 +0000</pubDate>
     </item>
     <item>
       <title>Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June</title>
@@ -70,7 +66,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1958577/_du6o1xY3P4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Two years in the making, the move away from Arm's abandoned Mbed platform is nearly complete.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/arduino-core-on-zephyr-work-hits-a-new-milestone-prepares-to-exit-beta-in-june-1702a5aaf2b5</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1958577/_du6o1xY3P4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:02:53 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 16:57:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
