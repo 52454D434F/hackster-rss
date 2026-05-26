@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 12:55:29 +0000</lastBuildDate>
-    <item>
-      <title>Eric Min's StereoBoy Reimagines the Nintendo Game Boy Pocket as an Expandable Music Machine</title>
-      <link>https://www.hackster.io/news/eric-min-s-stereoboy-reimagines-the-nintendo-game-boy-pocket-as-an-expandable-music-machine-872d32b759f8</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1960440/_JfLeGITdd4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Eric Min's StereoBoy Reimagines the Nintendo Game Boy Pocket as an Expandable Music Machine" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A Raspberry Pi RP2350 inside gives the StereoBoy serious power, while the cartridge system lets you add in new hardware at-will.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/eric-min-s-stereoboy-reimagines-the-nintendo-game-boy-pocket-as-an-expandable-music-machine-872d32b759f8</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1960440/_JfLeGITdd4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Take the Digital Plunge and Make an ASCII Aquarium</title>
-      <link>https://www.hackster.io/news/take-the-digital-plunge-and-make-an-ascii-aquarium-6d707814771f</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1960455/_TwCMJWEnv1.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Take the Digital Plunge and Make an ASCII Aquarium" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Tired of aquarium upkeep? The ASCII Aquarium puts a zero-maintenance digital reef on a tiny ESP32 touchscreen display.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/take-the-digital-plunge-and-make-an-ascii-aquarium-6d707814771f</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1960455/_TwCMJWEnv1.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 15:02:37 +0000</lastBuildDate>
     <item>
       <title>Replace Microcontrollers with Metal Washers for a Better Smart Home</title>
       <link>https://www.hackster.io/news/replace-microcontrollers-with-metal-washers-for-a-better-smart-home-8cfe9f818aa8</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1960489/_DetyT8pfoy.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Replace Microcontrollers with Metal Washers for a Better Smart Home" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Containing no electronics, SoundOff is essentially a carefully designed metal washer that can replace many of your fancy smart home sensors.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/replace-microcontrollers-with-metal-washers-for-a-better-smart-home-8cfe9f818aa8</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1960489/_DetyT8pfoy.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:02:38 +0000</pubDate>
     </item>
     <item>
       <title>RAKwireless Aims at Easier, More Reliable Raspberry Pi Meshtastic Nodes with Its New HAT Add-On</title>
@@ -38,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1960631/_vx2EpJvmv3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="RAKwireless Aims at Easier, More Reliable Raspberry Pi Meshtastic Nodes with Its New HAT Add-On" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The WisMesh Pi HAT RAK6421 acts as a carrier for WisBlock LoRa transceivers, as well as optional GNNS receivers and sensors.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/rakwireless-aims-at-easier-more-reliable-raspberry-pi-meshtastic-nodes-with-its-new-hat-add-on-d55eab1cf1df</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1960631/_vx2EpJvmv3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:02:38 +0000</pubDate>
     </item>
     <item>
       <title>Turn An Espressif ESP32-C3 Dev Board Into a Slick Environmental Monitor — Flashed From Your Browser</title>
@@ -46,7 +30,23 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1960636/_f9mayOCan3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Turn An Espressif ESP32-C3 Dev Board Into a Slick Environmental Monitor — Flashed From Your Browser" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;No software installation required for LeanMCU's Home Assistant-connected temperature and humidity monitor project.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/turn-an-espressif-esp32-c3-dev-board-into-a-slick-environmental-monitor-flashed-from-your-browser-5a85dd06e181</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1960636/_f9mayOCan3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zane Maldonado LattePanda IOTA-Powered CG Deck Moves from Dream to Engineering Prototype</title>
+      <link>https://www.hackster.io/news/zane-maldonado-lattepanda-iota-powered-cg-deck-moves-from-dream-to-engineering-prototype-51f8da2a5fee</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1960653/_G5UUJgvbJs.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Zane Maldonado LattePanda IOTA-Powered CG Deck Moves from Dream to Engineering Prototype" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Chunky modular handheld is now a working device, not just a collection of parts and a vision — and heading to Kickstarter soon.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/zane-maldonado-lattepanda-iota-powered-cg-deck-moves-from-dream-to-engineering-prototype-51f8da2a5fee</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1960653/_G5UUJgvbJs.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 15:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The CYD Gets an Operating System</title>
+      <link>https://www.hackster.io/news/the-cyd-gets-an-operating-system-a77bf82a4862</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1960665/_mvHTX0cPwr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The CYD Gets an Operating System" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Turn your $10 Cheap Yellow Display into a pocket workstation with ESP-Osito, a free OS loaded with useful applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/the-cyd-gets-an-operating-system-a77bf82a4862</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1960665/_mvHTX0cPwr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 15:02:38 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:02:38 +0000</pubDate>
     </item>
     <item>
       <title>This Web Server Runs on a Single 8-Bit Microchip</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1959183/_dFIItQyOAJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Web Server Runs on a Single 8-Bit Microchip" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Who says 8-bit is dead? Maurycyz just built a custom web server and networking stack on an AVR microcontroller.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-web-server-runs-on-a-single-8-bit-microchip-363d744e859d</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1959183/_dFIItQyOAJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:02:38 +0000</pubDate>
     </item>
     <item>
       <title>Flipper Devices Unveils the Flipper One, a Powerful Pocket-Sized Computer</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1959275/_tfsvck8g9I.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Flipper Devices Unveils the Flipper One, a Powerful Pocket-Sized Computer" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The creators of the Flipper Zero want the community to pitch in to make this Linux-powered follow-up the best it can be.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/flipper-devices-unveils-the-flipper-one-a-powerful-pocket-sized-computer-c7ef3b26d4f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1959275/_tfsvck8g9I.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 12:55:29 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:02:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
