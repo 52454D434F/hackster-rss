@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 13:08:29 +0000</lastBuildDate>
-    <item>
-      <title>The Open Home Foundation merch store is here!</title>
-      <link>https://www.home-assistant.io/blog/2026/02/19/open-home-foundation-merch-store-announcement/</link>
-      <description>&lt;img src="https://avatars.githubusercontent.com/balloob?size=64" alt="The Open Home Foundation merch store is here!" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Yes, the day has finally arrived: theOpen Home Foundation merch storeis up and running! 🥳 While some of you have tracked it down already (and are wearing the T-shirts to prove it!), we wanted to share it officially with the whole community so no one misses the chance to get involved.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/02/19/open-home-foundation-merch-store-announcement/</guid>
-      <category>Announcements</category>
-      <enclosure url="https://avatars.githubusercontent.com/balloob?size=64" length="0" type="image/webp"/>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 15:05:29 +0000</lastBuildDate>
     <item>
       <title>Heiman joins Works with Home Assistant</title>
       <link>https://www.home-assistant.io/blog/2026/02/24/heiman-joins-works-with-home-assistant/</link>
@@ -103,6 +94,15 @@ reviewed, polished, and merged. 💚&lt;/p&gt;</description>
       <category>Works-with-Home-Assistant</category>
       <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
       <pubDate>Tue, 19 May 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sensereo joins Works with Home Assistant</title>
+      <link>https://www.home-assistant.io/blog/2026/05/28/sensereo-joins-works-with-home-assistant/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="Sensereo joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;We’re sensing achange in the airthis month as we welcomeSensereoto the Works with Home Assistant program 🎉. Specialists in environmental sensing, Sensereo brings Matter smoke and carbon monoxide (CO) alarms into the Home Assistant ecosystem – meaning more ways to keep your home open, safe, and sound.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/05/28/sensereo-joins-works-with-home-assistant/</guid>
+      <category>Works-with-Home-Assistant</category>
+      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
+      <pubDate>Thu, 28 May 2026 00:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

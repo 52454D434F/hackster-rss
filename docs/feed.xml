@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 13:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:05:27 +0000</lastBuildDate>
     <item>
       <title>The G2 Nano Is a Powerful 1GHz Development Board</title>
       <link>https://www.hackster.io/news/the-g2-nano-is-a-powerful-1ghz-development-board-2d17a6bec7fb</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961062/_KpEkUC01BN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The G2 Nano Is a Powerful 1GHz Development Board" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The G2 Nano is a powerful, Arduino-easy development board with a 1GHz CPU designed for industrial robotics.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-g2-nano-is-a-powerful-1ghz-development-board-2d17a6bec7fb</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961062/_KpEkUC01BN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:29 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:28 +0000</pubDate>
     </item>
     <item>
       <title>The Credit Card-Sized Drawing Robot</title>
@@ -22,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961091/_JC2WUK7Fnl.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Credit Card-Sized Drawing Robot" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;PenBot Mini is a drawing robot that swaps bulky components for clever engineering, keeping its footprint to the size of a credit card.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-credit-card-sized-drawing-robot-1bf616eea071</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961091/_JC2WUK7Fnl.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:28 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:28 +0000</pubDate>
     </item>
     <item>
       <title>This Open Source RP2040 Development Board Looks Like a Magic Spellbook</title>
@@ -30,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961249/_F1aZI3Bn7A.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Open Source RP2040 Development Board Looks Like a Magic Spellbook" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Need a fantasy vibe for your next build? The open source Spell Tome dev board mimics a book using stacked PCBs powered by an RP2040.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-open-source-rp2040-development-board-looks-like-a-magic-spellbook-52a614f74b81</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961249/_F1aZI3Bn7A.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:28 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:28 +0000</pubDate>
     </item>
     <item>
       <title>The HardlyHumanFX RadioScout Lets You Navigate by Modern GPS, in Victorian Steampunk Style</title>
@@ -38,7 +38,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961412/_kgw9J91VAv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The HardlyHumanFX RadioScout Lets You Navigate by Modern GPS, in Victorian Steampunk Style" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Fully-working GNSS navigator lets you dial in a destination and track your progress by moving dial.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-hardlyhumanfx-radioscout-lets-you-navigate-by-modern-gps-in-victorian-steampunk-style-3200c47b252e</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961412/_kgw9J91VAv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:28 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:28 +0000</pubDate>
     </item>
     <item>
       <title>Ayushmaan Bhardwaj's TURN-OFF Is a Minimal, Espressif ESP32-Powered Bike Navigator — Sans GPS</title>
@@ -46,7 +46,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961419/_o5k5875gEC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Ayushmaan Bhardwaj's TURN-OFF Is a Minimal, Espressif ESP32-Powered Bike Navigator — Sans GPS" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;With little more than an ESP32-S3 and a battery, how do you handle turn-by-turn navigation and routing? By connecting it to your phone.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/ayushmaan-bhardwaj-s-turn-off-is-a-minimal-espressif-esp32-powered-bike-navigator-sans-gps-51d7f3d75b9a</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961419/_o5k5875gEC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:28 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:28 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:28 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:28 +0000</pubDate>
     </item>
     <item>
       <title>This Web Server Runs on a Single 8-Bit Microchip</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1959183/_dFIItQyOAJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Web Server Runs on a Single 8-Bit Microchip" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Who says 8-bit is dead? Maurycyz just built a custom web server and networking stack on an AVR microcontroller.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-web-server-runs-on-a-single-8-bit-microchip-363d744e859d</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1959183/_dFIItQyOAJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:28 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:27 +0000</pubDate>
     </item>
     <item>
       <title>Flipper Devices Unveils the Flipper One, a Powerful Pocket-Sized Computer</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1959275/_tfsvck8g9I.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Flipper Devices Unveils the Flipper One, a Powerful Pocket-Sized Computer" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The creators of the Flipper Zero want the community to pitch in to make this Linux-powered follow-up the best it can be.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/flipper-devices-unveils-the-flipper-one-a-powerful-pocket-sized-computer-c7ef3b26d4f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1959275/_tfsvck8g9I.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 13:08:28 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 15:05:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
