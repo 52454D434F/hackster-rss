@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 22:31:56 +0000</lastBuildDate>
-    <item>
-      <title>Ayushmaan Bhardwaj's TURN-OFF Is a Minimal, Espressif ESP32-Powered Bike Navigator — Sans GPS</title>
-      <link>https://www.hackster.io/news/ayushmaan-bhardwaj-s-turn-off-is-a-minimal-espressif-esp32-powered-bike-navigator-sans-gps-51d7f3d75b9a</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961419/_o5k5875gEC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Ayushmaan Bhardwaj's TURN-OFF Is a Minimal, Espressif ESP32-Powered Bike Navigator — Sans GPS" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;With little more than an ESP32-S3 and a battery, how do you handle turn-by-turn navigation and routing? By connecting it to your phone.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/ayushmaan-bhardwaj-s-turn-off-is-a-minimal-espressif-esp32-powered-bike-navigator-sans-gps-51d7f3d75b9a</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1961419/_o5k5875gEC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 09:06:37 +0000</lastBuildDate>
     <item>
       <title>Back to the BASICs with DAISY-1</title>
       <link>https://www.hackster.io/news/back-to-the-basics-with-daisy-1-4d5ea531b1d4</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961439/_AEcHmuFeFR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Back to the BASICs with DAISY-1" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;DAISY-1 is a custom, Arduino-powered faux retro computer that brings back the pure joy of early hacking.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/back-to-the-basics-with-daisy-1-4d5ea531b1d4</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961439/_AEcHmuFeFR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:58 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 09:06:38 +0000</pubDate>
     </item>
     <item>
       <title>Don't Give Gesture Platforms' William Lin a Hand — He's Brought His Own: The High-Dexterity HW1</title>
@@ -30,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961430/_EAnVTq9tyU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Don't Give Gesture Platforms' William Lin a Hand — He's Brought His Own: The High-Dexterity HW1" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Crowdfunding has begun for the five-fingered 19-jointed 10-active-degrees-of-freedom robotic hand and wrist.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/don-t-give-gesture-platforms-william-lin-a-hand-he-s-brought-his-own-the-high-dexterity-hw1-c585d2a56c24</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961430/_EAnVTq9tyU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:58 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 09:06:38 +0000</pubDate>
     </item>
     <item>
       <title>Hugging Face Launches $2,500 DIY Humanoid Robot</title>
@@ -38,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961496/_lou8h99mak.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Hugging Face Launches $2,500 DIY Humanoid Robot" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Hugging Face’s 3D-printed LeRobot Humanoid brings open source, affordable robotics to DIYers — even if it’s currently just a pair of legs.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/hugging-face-launches-2-500-diy-humanoid-robot-a49e0be72221</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961496/_lou8h99mak.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:58 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 09:06:38 +0000</pubDate>
     </item>
     <item>
       <title>Shovan Mondal's Tiny Model Plane Tries to Take Off When It Detects Air Traffic Overhead</title>
@@ -46,7 +38,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961451/_NJvxF0nP23.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Shovan Mondal's Tiny Model Plane Tries to Take Off When It Detects Air Traffic Overhead" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A location set from a phone's GPS and a link to the OpenSky Network allow this Espressif ESP32-based model to detect flights overhead.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/shovan-mondal-s-tiny-model-plane-tries-to-take-off-when-it-detects-air-traffic-overhead-4e491bdfb970</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1961451/_NJvxF0nP23.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:57 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 09:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>A DIY Robotic Cameraman Built From Salvaged Electronics</title>
+      <link>https://www.hackster.io/news/a-diy-robotic-cameraman-built-from-salvaged-electronics-c4a66d559aa0</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1961537/_2RS2GHTBv5.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="A DIY Robotic Cameraman Built From Salvaged Electronics" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;An engineer used salvaged electronics and 3D-printed parts to build a fully autonomous robotic cameraman.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/a-diy-robotic-cameraman-built-from-salvaged-electronics-c4a66d559aa0</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1961537/_2RS2GHTBv5.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 May 2026 09:06:37 +0000</pubDate>
     </item>
     <item>
       <title>April 2026 Open Hardware Certification Roundup</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="April 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Check out three new certifications we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/april-2026-open-hardware-certification-roundup-a69035b26209</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1954938/_lTs8EQ5S4G.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:57 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 09:06:37 +0000</pubDate>
     </item>
     <item>
       <title>This Web Server Runs on a Single 8-Bit Microchip</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1959183/_dFIItQyOAJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Web Server Runs on a Single 8-Bit Microchip" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Who says 8-bit is dead? Maurycyz just built a custom web server and networking stack on an AVR microcontroller.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-web-server-runs-on-a-single-8-bit-microchip-363d744e859d</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1959183/_dFIItQyOAJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:57 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 09:06:37 +0000</pubDate>
     </item>
     <item>
       <title>Flipper Devices Unveils the Flipper One, a Powerful Pocket-Sized Computer</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1959275/_tfsvck8g9I.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Flipper Devices Unveils the Flipper One, a Powerful Pocket-Sized Computer" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The creators of the Flipper Zero want the community to pitch in to make this Linux-powered follow-up the best it can be.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/flipper-devices-unveils-the-flipper-one-a-powerful-pocket-sized-computer-c7ef3b26d4f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1959275/_tfsvck8g9I.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 22:31:57 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 09:06:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
