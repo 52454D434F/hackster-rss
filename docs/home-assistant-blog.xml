@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 17:38:31 +0000</lastBuildDate>
-    <item>
-      <title>Heiman joins Works with Home Assistant</title>
-      <link>https://www.home-assistant.io/blog/2026/02/24/heiman-joins-works-with-home-assistant/</link>
-      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="Heiman joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;After an amazing 2025 that saw12 new Works with Home Assistant partnersjoin the program, it’s now time to say “Hei” to the first partner joining us this year:Heiman.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/02/24/heiman-joins-works-with-home-assistant/</guid>
-      <category>Works-with-Home-Assistant</category>
-      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
-      <pubDate>Tue, 24 Feb 2026 00:00:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 19:16:34 +0000</lastBuildDate>
     <item>
       <title>2026.3: A clean sweep</title>
       <link>https://www.home-assistant.io/blog/2026/03/04/release-20263/</link>
@@ -103,6 +94,16 @@ reviewed, polished, and merged. 💚&lt;/p&gt;</description>
       <category>Works-with-Home-Assistant</category>
       <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
       <pubDate>Thu, 28 May 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026.6: Pick a card, any card</title>
+      <link>https://www.home-assistant.io/blog/2026/06/03/release-20266/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.6: Pick a card, any card" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;I’m going to put my hand up right away: ✋ I amnota dashboard person. Not because I don’t like them; I love seeing what you all build. But designing a beautiful one is a kind of visual creativity I just don’t have. That’s a big part of why I love the built-inHome dashboardso much, it does the designing for me. But when I do build a custom dashboard, I usually stare at that “add a card” dialog for way too long, picking cards almost at random just to see if they look good with the data I have.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/06/03/release-20266/</guid>
+      <category>Core</category>
+      <category>Release-Notes</category>
+      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
