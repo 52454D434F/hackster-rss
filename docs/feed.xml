@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 22:41:55 +0000</lastBuildDate>
-    <item>
-      <title>See Right Through Your Roof with This Airplane Tracker</title>
-      <link>https://www.hackster.io/news/see-right-through-your-roof-with-this-airplane-tracker-1bb43f284843</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962926/_IB4LqOi9Uv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="See Right Through Your Roof with This Airplane Tracker" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Skylight turns your entire ceiling into an X-ray view of the sky, tracking live flights and stars using a Raspberry Pi.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/see-right-through-your-roof-with-this-airplane-tracker-1bb43f284843</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1962926/_IB4LqOi9Uv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 22:41:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 09:17:20 +0000</lastBuildDate>
     <item>
       <title>Tossed That Old TV? Keep the Remote — And Turn It Into a Macro-Capable Custom USB Input Device</title>
       <link>https://www.hackster.io/news/tossed-that-old-tv-keep-the-remote-and-turn-it-into-a-macro-capable-custom-usb-input-device-836875866f15</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962898/_qhGBquGXEc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Tossed That Old TV? Keep the Remote — And Turn It Into a Macro-Capable Custom USB Input Device" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A Raspberry Pi RP2040 and an infrared receiver is all you need to keep your old TV remotes out of landfill, thanks to developer Brisk4t.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/tossed-that-old-tv-keep-the-remote-and-turn-it-into-a-macro-capable-custom-usb-input-device-836875866f15</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962898/_qhGBquGXEc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 22:41:56 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 09:17:21 +0000</pubDate>
     </item>
     <item>
       <title>Control Any Phone, Tablet, or PC Remotely With This $79 Mini KVM</title>
@@ -30,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962946/_40akAP1L7d.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Control Any Phone, Tablet, or PC Remotely With This $79 Mini KVM" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Comet Q is a $79, pocket-sized, driverless USB-C KVM that lets you securely remote-control your phone, tablet, or laptop from anywhere.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/control-any-phone-tablet-or-pc-remotely-with-this-79-mini-kvm-1061f5ef0358</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962946/_40akAP1L7d.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 22:41:56 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 09:17:21 +0000</pubDate>
     </item>
     <item>
       <title>Who Needs a $900 Console? Build This Cool Retro Machine Instead</title>
@@ -38,7 +30,23 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962963/_wh70EJQhuw.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Who Needs a $900 Console? Build This Cool Retro Machine Instead" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Inkbox built a retro-style console inside a dodecahedral case, using a Raspberry Pi 3 to play games from custom cartridges on bare metal.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/who-needs-a-900-console-build-this-cool-retro-machine-instead-94e4426a3e74</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962963/_wh70EJQhuw.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 22:41:56 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 09:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>I Am GR00T: NVIDIA's Humanoid Robot Development Platform</title>
+      <link>https://www.hackster.io/news/i-am-gr00t-nvidia-s-humanoid-robot-development-platform-ece7ed84d1bd</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1963041/_8kqGbWe0VS.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="I Am GR00T: NVIDIA's Humanoid Robot Development Platform" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;NVIDIA’s Isaac GR00T reference design addresses robotics’ biggest bottleneck, giving devs a complete humanoid stack out of the box.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/i-am-gr00t-nvidia-s-humanoid-robot-development-platform-ece7ed84d1bd</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1963041/_8kqGbWe0VS.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jun 2026 09:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Rover to Carry a Robot Arm</title>
+      <link>https://www.hackster.io/news/building-a-rover-to-carry-a-robot-arm-c9ac5b06952a</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1963014/_o5eE8seIM4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Building a Rover to Carry a Robot Arm" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;element14 Presents' Milos Rasic built a kind of rover base to carry the five-axis robot arm he showed in his last update.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/building-a-rover-to-carry-a-robot-arm-c9ac5b06952a</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1963014/_o5eE8seIM4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jun 2026 09:17:20 +0000</pubDate>
     </item>
     <item>
       <title>The blackdevice Hive Aims to Turn Raspberry Pi Compute Module 5 Clusters Into "Real Infrastructure"</title>
@@ -46,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962574/_fBBcsHdGLN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The blackdevice Hive Aims to Turn Raspberry Pi Compute Module 5 Clusters Into "Real Infrastructure"" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Launching in 19" rack Hive and desktop or 10" rack Hive Mini, the Hive can host up to eight Raspberry Pi CM5s in a slick cluster system.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-blackdevice-hive-aims-to-turn-raspberry-pi-compute-module-5-clusters-into-real-infrastructure-d44324768f8e</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962574/_fBBcsHdGLN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 22:41:56 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 09:17:20 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review</title>
@@ -54,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Acmer’s new AM 60W MOPA laser machine is powerful and affordable. I put it to the test to find out if it is a deal or a dud.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-acmer-am-60w-mopa-laser-review-e27f379a53ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 22:41:55 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 09:17:20 +0000</pubDate>
     </item>
     <item>
       <title>OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?</title>
@@ -62,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The annual convention of open source hardware hackers and enthusiasts for talks, workshops, and exhibits made a hot Berlin even hotter!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/oshwa-s-open-hardware-summit-2026-hottest-hardware-event-of-the-year-2586bcb2f407</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 22:41:55 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 09:17:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
