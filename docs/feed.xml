@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 15:07:07 +0000</lastBuildDate>
-    <item>
-      <title>Ted Fried's MCL8080+ Crams a Working Intel 8080 Emulator Into Microchip's Teeny-Weeny ATtiny85</title>
-      <link>https://www.hackster.io/news/ted-fried-s-mcl8080-crams-a-working-intel-8080-emulator-into-microchip-s-teeny-weeny-attiny85-9c5411a78494</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964187/_683Dg1iZ21.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Ted Fried's MCL8080+ Crams a Working Intel 8080 Emulator Into Microchip's Teeny-Weeny ATtiny85" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;What took Intel a 40-pin DIP chip can now be achieved in an eight-pin microcontroller — complete with CP/M compatibility.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/ted-fried-s-mcl8080-crams-a-working-intel-8080-emulator-into-microchip-s-teeny-weeny-attiny85-9c5411a78494</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964187/_683Dg1iZ21.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 17:04:33 +0000</lastBuildDate>
     <item>
       <title>Dr. Scott M. Baker Gives a Classic Grid Compass a Voice — With the World's First GPIB Speech Synth</title>
       <link>https://www.hackster.io/news/dr-scott-m-baker-gives-a-classic-grid-compass-a-voice-with-the-world-s-first-gpib-speech-synth-fd8750c5283e</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964184/_OL9vVDWPyP.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Dr. Scott M. Baker Gives a Classic Grid Compass a Voice — With the World's First GPIB Speech Synth" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The rugged laptop made famous by NASA — and Aliens — can now speak its bubble-memory mind, for the first time.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/dr-scott-m-baker-gives-a-classic-grid-compass-a-voice-with-the-world-s-first-gpib-speech-synth-fd8750c5283e</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964184/_OL9vVDWPyP.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:08 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
     </item>
     <item>
       <title>MNT Research Hits Back at AI Bubble Price Hikes, Parts Shortages with a Raspberry Pi CM5 Adapter</title>
@@ -30,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964176/_Szu33jJrLb.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="MNT Research Hits Back at AI Bubble Price Hikes, Parts Shortages with a Raspberry Pi CM5 Adapter" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Upcoming "relatively low-cost" interstitial board will let you hook a Raspberry Pi Compute Module 5 into any MNT Reform laptop.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/mnt-research-hits-back-at-ai-bubble-price-hikes-parts-shortages-with-a-raspberry-pi-cm5-adapter-66f66afaf09c</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964176/_Szu33jJrLb.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:08 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
     </item>
     <item>
       <title>May 2026 Open Hardware Certification Roundup</title>
@@ -38,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964201/_KfgBParL2T.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="May 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Learn about three newly certified OSHW projects we love!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/may-2026-open-hardware-certification-roundup-ee02cbe6a03d</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964201/_KfgBParL2T.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:08 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
     </item>
     <item>
       <title>Turn Your Cardputer Into a Dual-Screen Cyberdeck for $50</title>
@@ -46,7 +38,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964217/_A8Oy6x3OuJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Turn Your Cardputer Into a Dual-Screen Cyberdeck for $50" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Turn your M5Stack Cardputer into a dual-screen mini laptop — it only takes $50 and a single evening.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/turn-your-cardputer-into-a-dual-screen-cyberdeck-for-50-a2c79ef28186</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964217/_A8Oy6x3OuJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:08 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yes, You Can Run Windows 95 on a Calculator</title>
+      <link>https://www.hackster.io/news/yes-you-can-run-windows-95-on-a-calculator-bf39c5ea2231</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964239/_uskhdgcPmr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Yes, You Can Run Windows 95 on a Calculator" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;You can run Windows 95 on a TI graphing calculator, but it takes a brutal 7 minutes just to boot.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/yes-you-can-run-windows-95-on-a-calculator-bf39c5ea2231</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964239/_uskhdgcPmr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
     </item>
     <item>
       <title>The blackdevice Hive Aims to Turn Raspberry Pi Compute Module 5 Clusters Into "Real Infrastructure"</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962574/_fBBcsHdGLN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The blackdevice Hive Aims to Turn Raspberry Pi Compute Module 5 Clusters Into "Real Infrastructure"" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Launching in 19" rack Hive and desktop or 10" rack Hive Mini, the Hive can host up to eight Raspberry Pi CM5s in a slick cluster system.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-blackdevice-hive-aims-to-turn-raspberry-pi-compute-module-5-clusters-into-real-infrastructure-d44324768f8e</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962574/_fBBcsHdGLN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:08 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Acmer’s new AM 60W MOPA laser machine is powerful and affordable. I put it to the test to find out if it is a deal or a dud.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-acmer-am-60w-mopa-laser-review-e27f379a53ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:07 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
     </item>
     <item>
       <title>OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The annual convention of open source hardware hackers and enthusiasts for talks, workshops, and exhibits made a hot Berlin even hotter!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/oshwa-s-open-hardware-summit-2026-hottest-hardware-event-of-the-year-2586bcb2f407</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:07:07 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 17:04:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
