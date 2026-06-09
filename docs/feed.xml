@@ -7,38 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:02:15 +0000</lastBuildDate>
-    <item>
-      <title>May 2026 Open Hardware Certification Roundup</title>
-      <link>https://www.hackster.io/news/may-2026-open-hardware-certification-roundup-ee02cbe6a03d</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964201/_KfgBParL2T.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="May 2026 Open Hardware Certification Roundup" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Learn about three newly certified OSHW projects we love!&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/may-2026-open-hardware-certification-roundup-ee02cbe6a03d</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964201/_KfgBParL2T.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turn Your Cardputer Into a Dual-Screen Cyberdeck for $50</title>
-      <link>https://www.hackster.io/news/turn-your-cardputer-into-a-dual-screen-cyberdeck-for-50-a2c79ef28186</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964217/_A8Oy6x3OuJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Turn Your Cardputer Into a Dual-Screen Cyberdeck for $50" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Turn your M5Stack Cardputer into a dual-screen mini laptop — it only takes $50 and a single evening.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/turn-your-cardputer-into-a-dual-screen-cyberdeck-for-50-a2c79ef28186</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964217/_A8Oy6x3OuJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yes, You Can Run Windows 95 on a Calculator</title>
-      <link>https://www.hackster.io/news/yes-you-can-run-windows-95-on-a-calculator-bf39c5ea2231</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964239/_uskhdgcPmr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Yes, You Can Run Windows 95 on a Calculator" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;You can run Windows 95 on a TI graphing calculator, but it takes a brutal 7 minutes just to boot.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/yes-you-can-run-windows-95-on-a-calculator-bf39c5ea2231</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964239/_uskhdgcPmr.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 12:56:00 +0000</lastBuildDate>
     <item>
       <title>Building a Functional RC Car at 1:150 Scale</title>
       <link>https://www.hackster.io/news/building-a-functional-rc-car-at-1-150-scale-894b36d39990</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964266/_oRmvwx5nqY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Building a Functional RC Car at 1:150 Scale" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Diorama111 packs a full RC drivetrain, steering system, and working lights into an impossibly tiny 1:150-scale Toyota ProBox.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/building-a-functional-rc-car-at-1-150-scale-894b36d39990</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964266/_oRmvwx5nqY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
     </item>
     <item>
       <title>This Bio-Inspired 3D Camera Cracks the Sub-Watt Barrier</title>
@@ -46,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964284/_uNuMk1oNXK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Bio-Inspired 3D Camera Cracks the Sub-Watt Barrier" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Move over, Spider-Man! SpiderCam uses real-life Spider-Sense to bring ultra-low-power 3D mapping to portable devices.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-bio-inspired-3d-camera-cracks-the-sub-watt-barrier-f91e085736d7</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964284/_uNuMk1oNXK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
     </item>
     <item>
       <title>This Sensor Will Never Run Out of Power</title>
@@ -54,7 +30,31 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964356/_EVJJZbHC9a.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Sensor Will Never Run Out of Power" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Juan Flores built the everAliveSensor IoT device that never runs out of power.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-sensor-will-never-run-out-of-power-3fd63a897b33</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964356/_EVJJZbHC9a.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jing Dong's Omega-Chassis Aims to Be The "Endgame" Upgrade for Clockwork Pi's uConsole</title>
+      <link>https://www.hackster.io/news/jing-dong-s-omega-chassis-aims-to-be-the-endgame-upgrade-for-clockwork-pi-s-uconsole-efac9b0673a1</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964495/_ahJwbFLWyl.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Jing Dong's Omega-Chassis Aims to Be The "Endgame" Upgrade for Clockwork Pi's uConsole" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Compact Linux handheld gets support for up to 10 external antennas, a runtime-boosting triple-battery system, active cooling, and more.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/jing-dong-s-omega-chassis-aims-to-be-the-endgame-upgrade-for-clockwork-pi-s-uconsole-efac9b0673a1</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964495/_ahJwbFLWyl.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>You Can Print This Tiny CoreXY 3D Printer</title>
+      <link>https://www.hackster.io/news/you-can-print-this-tiny-corexy-3d-printer-0770cbed4c04</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964386/_0xrWkgQnrv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="You Can Print This Tiny CoreXY 3D Printer" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Alex Yu designed this affordable, printable mini coreXY 3D printer that is even smaller than a Voron 0.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/you-can-print-this-tiny-corexy-3d-printer-0770cbed4c04</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964386/_0xrWkgQnrv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giulio Zausa's MMO-CHIP Makes Reverse Engineering Old Silicon Chips a Multiplayer Game</title>
+      <link>https://www.hackster.io/news/giulio-zausa-s-mmo-chip-makes-reverse-engineering-old-silicon-chips-a-multiplayer-game-23a16b68d73b</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964485/_y5jcZSmRuL.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Giulio Zausa's MMO-CHIP Makes Reverse Engineering Old Silicon Chips a Multiplayer Game" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Get some friends together and go from die-shot to Verilog "in an hour," Zausa promises of his open source reverse engineering tool.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/giulio-zausa-s-mmo-chip-makes-reverse-engineering-old-silicon-chips-a-multiplayer-game-23a16b68d73b</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964485/_y5jcZSmRuL.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
     </item>
     <item>
       <title>The blackdevice Hive Aims to Turn Raspberry Pi Compute Module 5 Clusters Into "Real Infrastructure"</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962574/_fBBcsHdGLN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The blackdevice Hive Aims to Turn Raspberry Pi Compute Module 5 Clusters Into "Real Infrastructure"" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Launching in 19" rack Hive and desktop or 10" rack Hive Mini, the Hive can host up to eight Raspberry Pi CM5s in a slick cluster system.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-blackdevice-hive-aims-to-turn-raspberry-pi-compute-module-5-clusters-into-real-infrastructure-d44324768f8e</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962574/_fBBcsHdGLN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Acmer’s new AM 60W MOPA laser machine is powerful and affordable. I put it to the test to find out if it is a deal or a dud.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-acmer-am-60w-mopa-laser-review-e27f379a53ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:16 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
     </item>
     <item>
       <title>OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?</title>
@@ -78,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The annual convention of open source hardware hackers and enthusiasts for talks, workshops, and exhibits made a hot Berlin even hotter!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/oshwa-s-open-hardware-summit-2026-hottest-hardware-event-of-the-year-2586bcb2f407</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:02:15 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 12:56:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
