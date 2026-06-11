@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 13:13:02 +0000</lastBuildDate>
-    <item>
-      <title>OpenCV 5 Debuts with Improved ONNX Support and Native AI Upgrades</title>
-      <link>https://www.hackster.io/news/opencv-5-debuts-with-improved-onnx-support-and-native-ai-upgrades-463224d10943</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964765/_DcIeaLyN9A.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OpenCV 5 Debuts with Improved ONNX Support and Native AI Upgrades" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;OpenCV 5 is here! A massive DNN engine redesign brings 80%+ ONNX support, lightning-fast CPU speeds, and native AI/LLM integration.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/opencv-5-debuts-with-improved-onnx-support-and-native-ai-upgrades-463224d10943</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964765/_DcIeaLyN9A.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Edge AI Meets Microscopy</title>
-      <link>https://www.hackster.io/news/edge-ai-meets-microscopy-bba2b903feef</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964775/_i2fLyLoEZU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Edge AI Meets Microscopy" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;YouTuber That Project built a custom, edge AI-powered microscope using an NVIDIA Jetson to decode the hidden world under the lens.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/edge-ai-meets-microscopy-bba2b903feef</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964775/_i2fLyLoEZU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 15:09:25 +0000</lastBuildDate>
     <item>
       <title>This ESP32-Based Gamepad Handles Play and Robotics Work Equally Well</title>
       <link>https://www.hackster.io/news/this-esp32-based-gamepad-handles-play-and-robotics-work-equally-well-0afad15fc9e4</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964830/_Y95nNmCeyq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This ESP32-Based Gamepad Handles Play and Robotics Work Equally Well" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Open Gadget's ESP32-based gamepad is perfect for controlling robots, in addition to gaming.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-esp32-based-gamepad-handles-play-and-robotics-work-equally-well-0afad15fc9e4</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964830/_Y95nNmCeyq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:03 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
     </item>
     <item>
       <title>Marcin Saj's MORSEDOT Clock Puts Dots and Dashes — Or Four Other Encodings — On Your Desk</title>
@@ -38,15 +22,31 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965265/_Yf2NdabQmK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Marcin Saj's MORSEDOT Clock Puts Dots and Dashes — Or Four Other Encodings — On Your Desk" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Annoyed with how easy it is to tell the time on a digital clock? The flip-disc MORSEDOT Clock is for you.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/marcin-saj-s-morsedot-clock-puts-dots-and-dashes-or-four-other-encodings-on-your-desk-4dffebdcb7c2</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1965265/_Yf2NdabQmK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:03 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
     </item>
     <item>
-      <title>Jorge Holgado Alvarez' PicoDMG Modernizes the Nintendo Game Boy — With an RP2040/RP2350</title>
-      <link>https://www.hackster.io/news/jorge-holgado-alvarez-picodmg-modernizes-the-nintendo-game-boy-with-an-rp2040-rp2350-717be568252e</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965314/_NEGBG1F7DG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Jorge Holgado Alvarez' PicoDMG Modernizes the Nintendo Game Boy — With an RP2040/RP2350" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Raspberry Pi's low-cost RP2040 or RP2350 microcontroller sits at the heart of this project to replace a Game Boy motherboard and display.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/jorge-holgado-alvarez-picodmg-modernizes-the-nintendo-game-boy-with-an-rp2040-rp2350-717be568252e</guid>
+      <title>Jorge Holgado Alvarez's PicoDMG Modernizes the Nintendo Game Boy — With an RP2040/RP2350</title>
+      <link>https://www.hackster.io/news/jorge-holgado-alvarez-s-picodmg-modernizes-the-nintendo-game-boy-with-an-rp2040-rp2350-717be568252e</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965314/_NEGBG1F7DG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Jorge Holgado Alvarez's PicoDMG Modernizes the Nintendo Game Boy — With an RP2040/RP2350" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Raspberry Pi's low-cost RP2040 or RP2350 microcontroller sits at the heart of this project to replace a Game Boy motherboard and display.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/jorge-holgado-alvarez-s-picodmg-modernizes-the-nintendo-game-boy-with-an-rp2040-rp2350-717be568252e</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1965314/_NEGBG1F7DG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:03 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A DIY Raspberry Pi-Based Mocap System to Rival Hollywood</title>
+      <link>https://www.hackster.io/news/a-diy-raspberry-pi-based-mocap-system-to-rival-hollywood-a0f87382c7a1</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964851/_vC0plt9ilM.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="A DIY Raspberry Pi-Based Mocap System to Rival Hollywood" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Dennis has built a Raspberry Pi-based DIY mocap system that performs fast enough to work in real-time. &lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/a-diy-raspberry-pi-based-mocap-system-to-rival-hollywood-a0f87382c7a1</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964851/_vC0plt9ilM.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The "Steady Hand" Programmer Blows EEPROMs for Your Retro Computing Projects — By Hand</title>
+      <link>https://www.hackster.io/news/the-steady-hand-programmer-blows-eeproms-for-your-retro-computing-projects-by-hand-2f9a6b7cb70a</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965367/_kOUpjMzjUd.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The "Steady Hand" Programmer Blows EEPROMs for Your Retro Computing Projects — By Hand" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Designed to solve the bootstrapping problem, this EEPROM programmer is built entirely from discrete logic.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/the-steady-hand-programmer-blows-eeproms-for-your-retro-computing-projects-by-hand-2f9a6b7cb70a</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1965367/_kOUpjMzjUd.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Acmer’s new AM 60W MOPA laser machine is powerful and affordable. I put it to the test to find out if it is a deal or a dud.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-acmer-am-60w-mopa-laser-review-e27f379a53ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:02 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
     </item>
     <item>
       <title>LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Hugging Face’s new LeLab GUI makes robotics effortless, letting you calibrate, teleoperate, and train the SO-101 arm in minutes.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/lelab-is-hugging-face-s-new-browser-based-gui-for-the-lerobot-ecosystem-d73ff19088f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:02 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
     </item>
     <item>
       <title>OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The annual convention of open source hardware hackers and enthusiasts for talks, workshops, and exhibits made a hot Berlin even hotter!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/oshwa-s-open-hardware-summit-2026-hottest-hardware-event-of-the-year-2586bcb2f407</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:13:02 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 15:09:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
