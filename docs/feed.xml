@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 22:34:19 +0000</lastBuildDate>
-    <item>
-      <title>A DIY Raspberry Pi-Based Mocap System to Rival Hollywood</title>
-      <link>https://www.hackster.io/news/a-diy-raspberry-pi-based-mocap-system-to-rival-hollywood-a0f87382c7a1</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964851/_vC0plt9ilM.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="A DIY Raspberry Pi-Based Mocap System to Rival Hollywood" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Dennis has built a Raspberry Pi-based DIY mocap system that performs fast enough to work in real-time. &lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/a-diy-raspberry-pi-based-mocap-system-to-rival-hollywood-a0f87382c7a1</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1964851/_vC0plt9ilM.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The "Steady Hand" Programmer Blows EEPROMs for Your Retro Computing Projects — By Hand</title>
-      <link>https://www.hackster.io/news/the-steady-hand-programmer-blows-eeproms-for-your-retro-computing-projects-by-hand-2f9a6b7cb70a</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965367/_kOUpjMzjUd.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The "Steady Hand" Programmer Blows EEPROMs for Your Retro Computing Projects — By Hand" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Designed to solve the bootstrapping problem, this EEPROM programmer is built entirely from discrete logic.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/the-steady-hand-programmer-blows-eeproms-for-your-retro-computing-projects-by-hand-2f9a6b7cb70a</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1965367/_kOUpjMzjUd.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 09:21:29 +0000</lastBuildDate>
     <item>
       <title>Pixel Is a Walking, Voice-Controlled Desktop Robot</title>
       <link>https://www.hackster.io/news/pixel-is-a-walking-voice-controlled-desktop-robot-11972a49b612</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965388/_9SbPLOZHwj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Pixel Is a Walking, Voice-Controlled Desktop Robot" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Maker Naz Louis built Pixel, a bipedal ESP32 desktop companion capable of walking, reacting to voice commands, and keeping him company.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/pixel-is-a-walking-voice-controlled-desktop-robot-11972a49b612</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1965388/_9SbPLOZHwj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:21 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:21:31 +0000</pubDate>
     </item>
     <item>
       <title>This New Kit Turns a Raspberry Pi Into a High-End Linux Handheld</title>
@@ -38,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965406/_x7uI4WFLyE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This New Kit Turns a Raspberry Pi Into a High-End Linux Handheld" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Build a polished Raspberry Pi Linux handheld with the new open-source piBrick PocketCM5 kit — no messy wiring or rough edges.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-new-kit-turns-a-raspberry-pi-into-a-high-end-linux-handheld-eb6a4dfffd18</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1965406/_x7uI4WFLyE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:20 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:21:31 +0000</pubDate>
     </item>
     <item>
       <title>Is a Smart Button Better Than a Voice Assistant?</title>
@@ -46,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965441/_n6Zbb9z2RJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Is a Smart Button Better Than a Voice Assistant?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Control your smart home on the cheap with this clever DIY wireless button built from a modified Bluetooth tracker.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/is-a-smart-button-better-than-a-voice-assistant-3f9c723e975b</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1965441/_n6Zbb9z2RJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:20 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:21:31 +0000</pubDate>
     </item>
     <item>
       <title>CrankGPT Is Guaranteed to Make You Cranky</title>
@@ -54,7 +38,23 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965469/_noJ41CK4Wn.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="CrankGPT Is Guaranteed to Make You Cranky" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;CrankGPT runs an offline AI voice assistant on a Raspberry Pi 5 powered entirely by a hand crank, because why not?&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/crankgpt-is-guaranteed-to-make-you-cranky-fe63af18547c</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1965469/_noJ41CK4Wn.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:20 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Almond Wants to Put Their Dual-Arm Axol Robot on Your Assembly Line</title>
+      <link>https://www.hackster.io/news/almond-wants-to-put-their-dual-arm-axol-robot-on-your-assembly-line-6c6fb2e99428</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965661/_c7zhMcPMRx.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Almond Wants to Put Their Dual-Arm Axol Robot on Your Assembly Line" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Maybe grab the Almond Axol for your assembly line, while the rest of the world waits indefinitely for practical humanoid robots. &lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/almond-wants-to-put-their-dual-arm-axol-robot-on-your-assembly-line-6c6fb2e99428</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1965661/_c7zhMcPMRx.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 09:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artful Variable Resistor Built Out of Scavenged Junk</title>
+      <link>https://www.hackster.io/news/artful-variable-resistor-built-out-of-scavenged-junk-8c7fda2b08fd</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1965652/_Gb14DWbfyJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Artful Variable Resistor Built Out of Scavenged Junk" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Janitor Crvknight used collected garbage to make this very pretty linear potentiometer. &lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/artful-variable-resistor-built-out-of-scavenged-junk-8c7fda2b08fd</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1965652/_Gb14DWbfyJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 09:21:30 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Acmer’s new AM 60W MOPA laser machine is powerful and affordable. I put it to the test to find out if it is a deal or a dud.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-acmer-am-60w-mopa-laser-review-e27f379a53ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:19 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:21:30 +0000</pubDate>
     </item>
     <item>
       <title>LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Hugging Face’s new LeLab GUI makes robotics effortless, letting you calibrate, teleoperate, and train the SO-101 arm in minutes.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/lelab-is-hugging-face-s-new-browser-based-gui-for-the-lerobot-ecosystem-d73ff19088f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:19 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:21:30 +0000</pubDate>
     </item>
     <item>
       <title>OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?</title>
@@ -78,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The annual convention of open source hardware hackers and enthusiasts for talks, workshops, and exhibits made a hot Berlin even hotter!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/oshwa-s-open-hardware-summit-2026-hottest-hardware-event-of-the-year-2586bcb2f407</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 22:34:19 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:21:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
