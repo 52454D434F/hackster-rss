@@ -7,38 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 15:02:28 +0000</lastBuildDate>
-    <item>
-      <title>Build a Desktop Flight Tracker with an ESP32 and Zero Soldering</title>
-      <link>https://www.hackster.io/news/build-a-desktop-flight-tracker-with-an-esp32-and-zero-soldering-b91c46ada9da</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1968449/_gbtoOu8BVG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Build a Desktop Flight Tracker with an ESP32 and Zero Soldering" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Track live overhead flights right from your desk with Micro Radar, a DIY flight tracker powered by an ESP32-C3.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/build-a-desktop-flight-tracker-with-an-esp32-and-zero-soldering-b91c46ada9da</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1968449/_gbtoOu8BVG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Orange Pi 6 Is Way More Powerful Than Your Current SBC</title>
-      <link>https://www.hackster.io/news/the-new-orange-pi-6-is-way-more-powerful-than-your-current-sbc-42744f98815c</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1968581/_lXNVj6S08H.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The New Orange Pi 6 Is Way More Powerful Than Your Current SBC" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;With a 12-core CPU, 45 TOPS of AI power, and 24GB of RAM, the new credit card-sized Orange Pi 6 is a massive upgrade over the Raspberry Pi.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/the-new-orange-pi-6-is-way-more-powerful-than-your-current-sbc-42744f98815c</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1968581/_lXNVj6S08H.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Tiny Robot Has a Big Personality</title>
-      <link>https://www.hackster.io/news/this-tiny-robot-has-a-big-personality-f0e9e8bcaedf</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1968594/_82lvbmpnLq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Tiny Robot Has a Big Personality" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;MiniSoul is a pocket-sized, ESP32-powered desktop robot with an AI-driven personality engine that evolves based on how you treat it.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/this-tiny-robot-has-a-big-personality-f0e9e8bcaedf</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1968594/_82lvbmpnLq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 17:01:00 +0000</lastBuildDate>
     <item>
       <title>A Raspberry Pi CM5 Carrier Board with Zero Footprint Penalty</title>
       <link>https://www.hackster.io/news/a-raspberry-pi-cm5-carrier-board-with-zero-footprint-penalty-dbf35ca6f141</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1968632/_RSA0tnRczc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="A Raspberry Pi CM5 Carrier Board with Zero Footprint Penalty" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;ARK’s Just A Pi carrier board matches the Raspberry Pi Compute Module 5 footprint perfectly to pack more power into ultra-tight spaces.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/a-raspberry-pi-cm5-carrier-board-with-zero-footprint-penalty-dbf35ca6f141</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1968632/_RSA0tnRczc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:29 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 17:01:01 +0000</pubDate>
     </item>
     <item>
       <title>The Flipper Zero Alternative That Looks Exactly Like a Normal Smartphone</title>
@@ -46,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1968681/_8Ei8EQIJru.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Flipper Zero Alternative That Looks Exactly Like a Normal Smartphone" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The 4G Hacker Phone is a Flipper Zero alternative hidden inside a smartphone body for discreet hacking on the go.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-flipper-zero-alternative-that-looks-exactly-like-a-normal-smartphone-405859f46c34</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1968681/_8Ei8EQIJru.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:29 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 17:01:01 +0000</pubDate>
     </item>
     <item>
       <title>You and I See Different Things When We Look At This Holographic Display</title>
@@ -54,7 +30,31 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1968830/_XlAQwbw2vi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="You and I See Different Things When We Look At This Holographic Display" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;We know that extramission theory is incorrect, because this strange two-way holographic display couldn’t work if it was.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/you-and-i-see-different-things-when-we-look-at-this-holographic-display-723481b514a9</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1968830/_XlAQwbw2vi.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:29 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 17:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>This DIY Raspberry Pi Camera Prioritizes Fun Over Pixels</title>
+      <link>https://www.hackster.io/news/this-diy-raspberry-pi-camera-prioritizes-fun-over-pixels-d47de65344b3</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1968990/_h6B9m9Re8J.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This DIY Raspberry Pi Camera Prioritizes Fun Over Pixels" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Bring back the joy of photography with Optocam Zero, a pocket-sized, DIY Raspberry Pi camera built for pure fun.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/this-diy-raspberry-pi-camera-prioritizes-fun-over-pixels-d47de65344b3</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1968990/_h6B9m9Re8J.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jun 2026 17:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Robot Spiders Are Coming</title>
+      <link>https://www.hackster.io/news/the-robot-spiders-are-coming-ac2d5d01a738</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1969037/_RyTVlNyoa4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Robot Spiders Are Coming" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Dragline Dynamics is betting on robot spiders with Charlotte, a $150 customizable, multi-legged platform built for makers.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/the-robot-spiders-are-coming-ac2d5d01a738</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1969037/_RyTVlNyoa4.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jun 2026 17:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Healthware Conference 2026 Is Almost Here!</title>
+      <link>https://www.hackster.io/news/open-healthware-conference-2026-is-almost-here-e0da32918d19</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1969022/_wNpYlYZomt.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Open Healthware Conference 2026 Is Almost Here!" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Find out what to expect from OHC2026. &lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/open-healthware-conference-2026-is-almost-here-e0da32918d19</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1969022/_wNpYlYZomt.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jun 2026 17:01:01 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Acmer’s new AM 60W MOPA laser machine is powerful and affordable. I put it to the test to find out if it is a deal or a dud.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-acmer-am-60w-mopa-laser-review-e27f379a53ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:29 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 17:01:01 +0000</pubDate>
     </item>
     <item>
       <title>LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Hugging Face’s new LeLab GUI makes robotics effortless, letting you calibrate, teleoperate, and train the SO-101 arm in minutes.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/lelab-is-hugging-face-s-new-browser-based-gui-for-the-lerobot-ecosystem-d73ff19088f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:29 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 17:01:00 +0000</pubDate>
     </item>
     <item>
       <title>OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?</title>
@@ -78,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The annual convention of open source hardware hackers and enthusiasts for talks, workshops, and exhibits made a hot Berlin even hotter!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/oshwa-s-open-hardware-summit-2026-hottest-hardware-event-of-the-year-2586bcb2f407</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:02:29 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 17:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

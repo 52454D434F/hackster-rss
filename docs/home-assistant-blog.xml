@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 15:02:31 +0000</lastBuildDate>
-    <item>
-      <title>2026.3: A clean sweep</title>
-      <link>https://www.home-assistant.io/blog/2026/03/04/release-20263/</link>
-      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.3: A clean sweep" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;After last month’s massive release, this one is a nice and relaxed one. We took
-a step back from the big headline features and fully focused on something
-equally important: getting the amazing contributions from our community
-reviewed, polished, and merged. 💚&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/03/04/release-20263/</guid>
-      <category>Core</category>
-      <category>Release-Notes</category>
-      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 17:01:02 +0000</lastBuildDate>
     <item>
       <title>Heatit joins Works with Home Assistant</title>
       <link>https://www.home-assistant.io/blog/2026/03/24/heatit-joins-works-with-home-assistant/</link>
@@ -104,6 +91,15 @@ reviewed, polished, and merged. 💚&lt;/p&gt;</description>
       <category>Release-Notes</category>
       <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proxy all the things: no device left behind</title>
+      <link>https://www.openhomefoundation.org/blog/proxy-all-the-things-no-device-left-behind/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/balloob?size=64" alt="Proxy all the things: no device left behind" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Every smart home has them: the older devices that still work perfectly well but no longer fit neatly into a modern setup. Instead of letting them gather dust in a drawer, the Open Home Foundation’s projects can help you bring them back into the fold. Here’s how a little proxying can give your beloved old gear a new lease of life, and keep your smart home that bit more sustainable.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.openhomefoundation.org/blog/proxy-all-the-things-no-device-left-behind/</guid>
+      <category>Technology</category>
+      <enclosure url="https://avatars.githubusercontent.com/balloob?size=64" length="0" type="image/webp"/>
+      <pubDate>Thu, 18 Jun 2026 00:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
