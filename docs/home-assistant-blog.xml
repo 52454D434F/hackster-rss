@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:53:27 +0000</lastBuildDate>
-    <item>
-      <title>Heatit joins Works with Home Assistant</title>
-      <link>https://www.home-assistant.io/blog/2026/03/24/heatit-joins-works-with-home-assistant/</link>
-      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="Heatit joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;We’re thrilled to extend a very warm (ahem) Works with Home Assistant welcome toHeatit! As the name suggests, Heatit are all about keeping you, and your home, warm. They specialize in smart climate and heating control, which might have something to do with the fact they’re based in Norway, where energy management is a big reason people turn toHome Assistant, as winter temperatures can dip to below -20°C!&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/03/24/heatit-joins-works-with-home-assistant/</guid>
-      <category>Works-with-Home-Assistant</category>
-      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
-      <pubDate>Tue, 24 Mar 2026 00:00:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 15:00:24 +0000</lastBuildDate>
     <item>
       <title>Modernizing encryption of Home Assistant backups</title>
       <link>https://www.home-assistant.io/blog/2026/03/26/modernizing-encryption-of-home-assistant-backups/</link>
@@ -100,6 +91,15 @@
       <category>Technology</category>
       <enclosure url="https://avatars.githubusercontent.com/balloob?size=64" length="0" type="image/webp"/>
       <pubDate>Thu, 18 Jun 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Matter upgrade you’ve been waiting for</title>
+      <link>https://www.home-assistant.io/blog/2026/06/23/the-matter-upgrade-youve-been-waiting-for/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/Apollon77?size=64" alt="The Matter upgrade you’ve been waiting for" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;It started as a passion project. Yet in a few yearsmatter.jshas grown beyond my wildest expectations, becoming the backbone of the open source Matter ecosystem, and powering everything from Homebridge to openHAB, and even some commercial products.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/06/23/the-matter-upgrade-youve-been-waiting-for/</guid>
+      <category>Announcements</category>
+      <enclosure url="https://avatars.githubusercontent.com/Apollon77?size=64" length="0" type="image/webp"/>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
