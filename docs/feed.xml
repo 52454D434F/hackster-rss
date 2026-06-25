@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 16:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:41:59 +0000</lastBuildDate>
     <item>
       <title>MIT’s New Chip Gives Tiny Robots 3D Vision</title>
       <link>https://www.hackster.io/news/mit-s-new-chip-gives-tiny-robots-3d-vision-6d05ca4e131a</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1970623/_63DwxfXmvm.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="MIT’s New Chip Gives Tiny Robots 3D Vision" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;MIT’s new Gleanmer chip lets tiny robots map their world in 3D using less power than a single LED.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/mit-s-new-chip-gives-tiny-robots-3d-vision-6d05ca4e131a</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1970623/_63DwxfXmvm.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:12 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Feeling the Ground with Your Arms</title>
@@ -22,15 +22,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1970634/_yusCSExgNA.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Feeling the Ground with Your Arms" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Researchers created a haptic sleeve that lets people with foot numbness "feel" the ground through vibrations and heat on their arms.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/feeling-the-ground-with-your-arms-85fd6a5fdc62</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1970634/_yusCSExgNA.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:12 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Turning a Broken Vacuum Into a Custom Mobile Robot</title>
       <link>https://www.hackster.io/news/turning-a-broken-vacuum-into-a-custom-mobile-robot-b405e2332874</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1970651/_4oT0cESLJ8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Turning a Broken Vacuum Into a Custom Mobile Robot" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;When his robot vacuum died, Clem Mayer used a Raspberry Pi to turn it into an awesome DIY remote-control robotics platform.&lt;/p&gt;</description>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1970651/_4oT0cESLJ8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Turning a Broken Vacuum Into a Custom Mobile Robot" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;When his robot vacuum died, Clem Mayer used a Raspberry Pi to turn it into an awesome DIY remote-controlled robotics platform.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/turning-a-broken-vacuum-into-a-custom-mobile-robot-b405e2332874</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1970651/_4oT0cESLJ8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:12 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Build Your Own Retro VFD Desk Clock</title>
@@ -38,7 +38,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1971366/_oAYhUubOV3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Build Your Own Retro VFD Desk Clock" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Follow Sciter_'s guide to hack a retro calculator VFD into a modern desk clock powered by a single AA battery.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/build-your-own-retro-vfd-desk-clock-4257ef1254fb</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1971366/_oAYhUubOV3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:12 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:42:00 +0000</pubDate>
     </item>
     <item>
       <title>NeoEyes NE503 Brings 20 TOPS of On-Device AI to Industrial Cameras</title>
@@ -46,7 +46,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1971410/_5xDLFh2i8N.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="NeoEyes NE503 Brings 20 TOPS of On-Device AI to Industrial Cameras" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;CamThink’s new NeoEyes NE503 edge AI camera packs 20 TOPS of processing power to smash latency and run vision models on-device.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/neoeyes-ne503-brings-20-tops-of-on-device-ai-to-industrial-cameras-a0d8c402b66c</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1971410/_5xDLFh2i8N.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:12 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Sonocotta’s Louder ESP32 Mini Upgrades Your Old Speakers</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1971436/_v6hqIA4kYv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Sonocotta’s Louder ESP32 Mini Upgrades Your Old Speakers" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Upgrade your old speakers with Sonocotta’s $15 Louder ESP32 Mini for high-quality DIY smart streaming via Home Assistant and AirPlay.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/sonocotta-s-louder-esp32-mini-upgrades-your-old-speakers-6e4e85e0668a</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1971436/_v6hqIA4kYv.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:41:59 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Acmer AM 60W MOPA Laser Review" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Acmer’s new AM 60W MOPA laser machine is powerful and affordable. I put it to the test to find out if it is a deal or a dud.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-acmer-am-60w-mopa-laser-review-e27f379a53ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962733/_gqK7l2IK7S.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:41:59 +0000</pubDate>
     </item>
     <item>
       <title>LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Hugging Face’s new LeLab GUI makes robotics effortless, letting you calibrate, teleoperate, and train the SO-101 arm in minutes.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/lelab-is-hugging-face-s-new-browser-based-gui-for-the-lerobot-ecosystem-d73ff19088f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1964526/_zbofFQBO78.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:41:59 +0000</pubDate>
     </item>
     <item>
       <title>OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?</title>
@@ -78,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OSHWA's Open Hardware Summit 2026: Hottest Hardware Event of the Year?" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The annual convention of open source hardware hackers and enthusiasts for talks, workshops, and exhibits made a hot Berlin even hotter!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/oshwa-s-open-hardware-summit-2026-hottest-hardware-event-of-the-year-2586bcb2f407</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1962379/_5RcZ2LvAVX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 16:45:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 18:41:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
