@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 16:46:21 +0000</lastBuildDate>
-    <item>
-      <title>Modernizing encryption of Home Assistant backups</title>
-      <link>https://www.home-assistant.io/blog/2026/03/26/modernizing-encryption-of-home-assistant-backups/</link>
-      <description>&lt;img src="https://avatars.githubusercontent.com/emontnemery?size=64" alt="Modernizing encryption of Home Assistant backups" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Backups are one of those quiet, powerful features: when they work, you don’t notice them, but when you need them, they’re everything. We’ve evolved Home Assistant’s built-in backup format over the years to keep it safe and secure, especially when backing up to remote locations. As modern cryptography has advanced, we needed to build a system to match. SecureTar v3 is a purpose-built library for creating and reading password-protected Home Assistant backups with modern cryptography and safer, stronger defaults.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/03/26/modernizing-encryption-of-home-assistant-backups/</guid>
-      <category>Announcements</category>
-      <enclosure url="https://avatars.githubusercontent.com/emontnemery?size=64" length="0" type="image/webp"/>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 18:36:55 +0000</lastBuildDate>
     <item>
       <title>2026.4: Infrared never left the chat</title>
       <link>https://www.home-assistant.io/blog/2026/04/01/release-20264/</link>
@@ -100,6 +91,16 @@
       <category>Announcements</category>
       <enclosure url="https://avatars.githubusercontent.com/Apollon77?size=64" length="0" type="image/webp"/>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026.7: Automations that speak your language</title>
+      <link>https://www.home-assistant.io/blog/2026/07/01/release-20267/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.7: Automations that speak your language" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Don’t forget tojoin our release party live stream on YouTubeon July 1, 2026, at 20:00 GMT / 12:00 PT / 21:00 CET!&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/07/01/release-20267/</guid>
+      <category>Core</category>
+      <category>Release-Notes</category>
+      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
