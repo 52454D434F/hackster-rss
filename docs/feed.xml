@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 13:02:19 +0000</lastBuildDate>
-    <item>
-      <title>This Game Boy Color Can Play YouTube Videos</title>
-      <link>https://www.hackster.io/news/this-game-boy-color-can-play-youtube-videos-1ba5eae30c5a</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973383/_6F2FrR4dWE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Game Boy Color Can Play YouTube Videos" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;How do you think it was possible for YouTuber Throaty Mumbo to give his Game Boy Color the ability to play YouTube videos?&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/this-game-boy-color-can-play-youtube-videos-1ba5eae30c5a</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1973383/_6F2FrR4dWE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supercharging the Pico 2 Ecosystem with 48 GPIOs</title>
-      <link>https://www.hackster.io/news/supercharging-the-pico-2-ecosystem-with-48-gpios-4808baec0217</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973528/_SoVct4rPKl.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Supercharging the Pico 2 Ecosystem with 48 GPIOs" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Clintech’s new Pico Board unleashes the full power of the RP2350 chip, packing 48 GPIO pins into a familiar, ultra-compact form factor.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/supercharging-the-pico-2-ecosystem-with-48-gpios-4808baec0217</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1973528/_SoVct4rPKl.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 14:58:15 +0000</lastBuildDate>
     <item>
       <title>DEBIX Launches a Powerful Industrial Edge Computer with Real-Time Cores</title>
       <link>https://www.hackster.io/news/debix-launches-a-powerful-industrial-edge-computer-with-real-time-cores-f4e7a311f853</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973537/_6GGq7NPz21.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="DEBIX Launches a Powerful Industrial Edge Computer with Real-Time Cores" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The DEBIX T62P-01 brings serious processing power and real-time cores to heavy-duty industrial edge computing.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/debix-launches-a-powerful-industrial-edge-computer-with-real-time-cores-f4e7a311f853</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1973537/_6GGq7NPz21.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:20 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 14:58:16 +0000</pubDate>
     </item>
     <item>
       <title>This Smart Bike Thinks Ahead to Stop Wipeouts in Their Tracks</title>
@@ -38,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973547/_7yQIZnPNKK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Smart Bike Thinks Ahead to Stop Wipeouts in Their Tracks" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Researchers built a steer-by-wire smart bike that reads rider intent to stop crashes before they happen without ruining the ride.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-smart-bike-thinks-ahead-to-stop-wipeouts-in-their-tracks-fdfac25d23b3</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1973547/_7yQIZnPNKK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:20 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 14:58:16 +0000</pubDate>
     </item>
     <item>
       <title>The Future of Prosthetics Is 3D-Printed and AI-Powered</title>
@@ -46,7 +30,31 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973562/_IkEZ3peYcq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Future of Prosthetics Is 3D-Printed and AI-Powered" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;FAU’s new AI-powered, 3D-printed magnetic sleeve fixes one of the biggest challenges in prosthetics by customizing control for each user.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-future-of-prosthetics-is-3d-printed-and-ai-powered-d3685c2c1794</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1973562/_IkEZ3peYcq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:20 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 14:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Robot Makes Focus Stacking Easy</title>
+      <link>https://www.hackster.io/news/this-robot-makes-focus-stacking-easy-81550a874b8a</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973697/_COWAQsTf8Y.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Robot Makes Focus Stacking Easy" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Alan of MandicReally built this robot to automatic microscope focus stacking photography. &lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/this-robot-makes-focus-stacking-easy-81550a874b8a</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1973697/_COWAQsTf8Y.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 14:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Astrolabe Is Digital, Electronic, and Mechanical</title>
+      <link>https://www.hackster.io/news/this-astrolabe-is-digital-electronic-and-mechanical-dc564a31832e</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973705/_Ph5SxTibOK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Astrolabe Is Digital, Electronic, and Mechanical" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Redditor chu-bert added digital and electronic elements alongside the mechanical to build their astrolabe.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/this-astrolabe-is-digital-electronic-and-mechanical-dc564a31832e</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1973705/_Ph5SxTibOK.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 14:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>This DIY Signal Generator Replaces Your Entire Collection of Oscillators</title>
+      <link>https://www.hackster.io/news/this-diy-signal-generator-replaces-your-entire-collection-of-oscillators-02483636c554</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1973804/_PzidXCTApI.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This DIY Signal Generator Replaces Your Entire Collection of Oscillators" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Replace your cluttered drawer of oscillators with a DIY signal generator that hits any frequency from 2 Hz to 33.5 MHz in 2 Hz steps.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/this-diy-signal-generator-replaces-your-entire-collection-of-oscillators-02483636c554</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1973804/_PzidXCTApI.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 14:58:16 +0000</pubDate>
     </item>
     <item>
       <title>This $29 Board Is Like a Hackable AirTag</title>
@@ -54,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1970060/_PKQMt90oXZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This $29 Board Is Like a Hackable AirTag" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Escape the walled garden with Nordic's $29 nRF54L15 Tag, compatible with both Apple Find My and Google's Find Hub network.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-29-board-is-like-a-hackable-airtag-5bb8146b8cf8</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1970060/_PKQMt90oXZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:20 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 14:58:16 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Pi Meets FPGA on the $50 Forgix</title>
@@ -62,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1972883/_WncqkzVaBq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Raspberry Pi Meets FPGA on the $50 Forgix" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Forgix is a $50 breadboard-friendly development board combining the Raspberry Pi RP2354 with an FPGA for ultimate hardware flexibility.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/raspberry-pi-meets-fpga-on-the-50-forgix-af0e4f156cf6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1972883/_WncqkzVaBq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:19 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 14:58:15 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Creality Sermoon P1 3D Scanner</title>
@@ -70,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1972713/_67Y57K2hzc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Creality Sermoon P1 3D Scanner" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;I’ve spent the past several weeks testing the new Creality Sermoon P1 to find out if it meets the high standard set by the Raptor Pro.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-creality-sermoon-p1-3d-scanner-ac2c200054ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1972713/_67Y57K2hzc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:02:19 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 14:58:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
