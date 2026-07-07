@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 22:58:56 +0000</lastBuildDate>
-    <item>
-      <title>2026.4: Infrared never left the chat</title>
-      <link>https://www.home-assistant.io/blog/2026/04/01/release-20264/</link>
-      <description>&lt;img src="https://avatars.githubusercontent.com/frenck?size=64" alt="2026.4: Infrared never left the chat" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;I’ll be honest: when I first heard the pitch forinfrared supportin Home Assistant, I wasn’t exactly jumping out of my chair. Infrared? That’s old tech! But that’sexactlythe point. Think about how many TVs, air conditioners, and other appliances sitting in your homeright nowhave an infrared receiver but no smart features whatsoever. With this release, all of those devices can get a smart future, showing up as actual, controllable devices in Home Assistant. Turns out, old tech can learn some very new tricks. 📡&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/04/01/release-20264/</guid>
-      <category>Core</category>
-      <category>Release-Notes</category>
-      <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 10:47:02 +0000</lastBuildDate>
     <item>
       <title>ubisys joins Works with Home Assistant</title>
       <link>https://www.home-assistant.io/blog/2026/04/23/ubisys-joins-works-with-home-assistant/</link>
@@ -101,6 +91,15 @@
       <category>Release-Notes</category>
       <enclosure url="https://avatars.githubusercontent.com/frenck?size=64" length="0" type="image/webp"/>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Companion app: Changing support for Apple platforms</title>
+      <link>https://www.home-assistant.io/blog/2026/07/07/companion-app-changing-support-for-apple-platforms/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/bgoncal?size=64" alt="Companion app: Changing support for Apple platforms" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;We’re updating which Apple platforms theHome Assistant Companion appsupports, and because transparency is core to how we work, we want to be upfront about what’s changing.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/07/07/companion-app-changing-support-for-apple-platforms/</guid>
+      <category>Announcements</category>
+      <enclosure url="https://avatars.githubusercontent.com/bgoncal?size=64" length="0" type="image/webp"/>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
