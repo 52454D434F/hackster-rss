@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 10:08:26 +0000</lastBuildDate>
-    <item>
-      <title>The Pic-O-Pocket Puts a Game Console on Your Keychain</title>
-      <link>https://www.hackster.io/news/the-pic-o-pocket-puts-a-game-console-on-your-keychain-294c1f24a3f0</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1974387/_JZfsTL6hCC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Pic-O-Pocket Puts a Game Console on Your Keychain" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Pic-O-Pocket is a keychain-sized retro console packed with 13 games, Wi-Fi, and a custom OS — all built using a Raspberry Pi Pico 2 W.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/the-pic-o-pocket-puts-a-game-console-on-your-keychain-294c1f24a3f0</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1974387/_JZfsTL6hCC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 13:42:53 +0000</lastBuildDate>
     <item>
       <title>Bitluni Hacked Together a DIY 8,192-Core GPU</title>
       <link>https://www.hackster.io/news/bitluni-hacked-together-a-diy-8-192-core-gpu-296382e999d8</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1974398/_6reLpswZv8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Bitluni Hacked Together a DIY 8,192-Core GPU" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Bitluni just built a wild and weird 8,192-core custom GPU using thousands of cheap microcontrollers.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/bitluni-hacked-together-a-diy-8-192-core-gpu-296382e999d8</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1974398/_6reLpswZv8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:28 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:54 +0000</pubDate>
     </item>
     <item>
       <title>Talking Batteries Could Prevent Catastrophic Meltdowns</title>
@@ -30,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1974405/_qX25I6r0GR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Talking Batteries Could Prevent Catastrophic Meltdowns" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Researchers have created a "talkative" battery that transmits information about its internal state over its own power lines.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/talking-batteries-could-prevent-catastrophic-meltdowns-3285f945bb2b</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1974405/_qX25I6r0GR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:28 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:54 +0000</pubDate>
     </item>
     <item>
       <title>New u-blox F11 Platform Promises Dual-Band GPS Accuracy at Half the Power</title>
@@ -38,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1974412/_x9ZMjOEQK8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="New u-blox F11 Platform Promises Dual-Band GPS Accuracy at Half the Power" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;u-blox’s new F11 GNSS platform slashes power consumption by 50% without sacrificing location precision for trackers and drones.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/new-u-blox-f11-platform-promises-dual-band-gps-accuracy-at-half-the-power-b52204b53e01</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1974412/_x9ZMjOEQK8.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:28 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:54 +0000</pubDate>
     </item>
     <item>
       <title>PiZZa Turns Your Raspberry Pi SBC Into a Powerful Arduino</title>
@@ -46,7 +38,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1974432/_3fZUhWZoE6.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="PiZZa Turns Your Raspberry Pi SBC Into a Powerful Arduino" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;PiZZa gives you the best of both worlds by turning your Raspberry Pi single-board computer into something like an Arduino development board.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/pizza-turns-your-raspberry-pi-sbc-into-a-powerful-arduino-306bc23d06d9</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1974432/_3fZUhWZoE6.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:28 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:54 +0000</pubDate>
     </item>
     <item>
       <title>This Smart Power Distribution System Keeps the Bench Tidy</title>
@@ -54,7 +46,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1974444/_gUHrJu43lc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Smart Power Distribution System Keeps the Bench Tidy" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;element14 Presents' Mark Donners developed a smart power distribution system that keeps his bench tidy and collects useful data.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-smart-power-distribution-system-keeps-the-bench-tidy-c665489ecdc2</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1974444/_gUHrJu43lc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:27 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The PocketMage Crowdfunding Campaign Is Finally Underway</title>
+      <link>https://www.hackster.io/news/the-pocketmage-crowdfunding-campaign-is-finally-underway-120b7562c6f0</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1974576/_2hPtPBdUrB.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The PocketMage Crowdfunding Campaign Is Finally Underway" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The PocketMage is an open source E Ink PDA built for distraction-free coding, writing, and hacking — and its crowdfunding campaign is live!&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/the-pocketmage-crowdfunding-campaign-is-finally-underway-120b7562c6f0</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1974576/_2hPtPBdUrB.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 13:42:53 +0000</pubDate>
     </item>
     <item>
       <title>This $29 Board Is Like a Hackable AirTag</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1970060/_PKQMt90oXZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This $29 Board Is Like a Hackable AirTag" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Escape the walled garden with Nordic's $29 nRF54L15 Tag, compatible with both Apple Find My and Google's Find Hub network.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-29-board-is-like-a-hackable-airtag-5bb8146b8cf8</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1970060/_PKQMt90oXZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:27 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:53 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Pi Meets FPGA on the $50 Forgix</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1972883/_WncqkzVaBq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Raspberry Pi Meets FPGA on the $50 Forgix" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Forgix is a $50 breadboard-friendly development board combining the Raspberry Pi RP2354 with an FPGA for ultimate hardware flexibility.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/raspberry-pi-meets-fpga-on-the-50-forgix-af0e4f156cf6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1972883/_WncqkzVaBq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:27 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:53 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Creality Sermoon P1 3D Scanner</title>
@@ -78,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1972713/_67Y57K2hzc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Creality Sermoon P1 3D Scanner" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;I’ve spent the past several weeks testing the new Creality Sermoon P1 to find out if it meets the high standard set by the Raptor Pro.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-creality-sermoon-p1-3d-scanner-ac2c200054ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1972713/_67Y57K2hzc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:08:27 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:42:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
