@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 22:56:26 +0000</lastBuildDate>
-    <item>
-      <title>ubisys joins Works with Home Assistant</title>
-      <link>https://www.home-assistant.io/blog/2026/04/23/ubisys-joins-works-with-home-assistant/</link>
-      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="ubisys joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;We’re thrilled to welcomeubisysto Works with Home Assistant! This German company has been dedicated to smart home automation for more than 20 years, and offers a range of Zigbee devices designed to help you retrofit your home. If retrofitting is conjuring up images of avocado bathrooms 🥑 and artexed ceilings, fear not – it just means upgrading what you already have, rather than ripping it out and starting again. Better for your home, and the planet 🌍.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/04/23/ubisys-joins-works-with-home-assistant/</guid>
-      <category>Works-with-Home-Assistant</category>
-      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
-      <pubDate>Thu, 23 Apr 2026 00:00:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 10:51:36 +0000</lastBuildDate>
     <item>
       <title>BEGA joins Works with Home Assistant</title>
       <link>https://www.home-assistant.io/blog/2026/05/05/bega-joins-works-with-home-assistant/</link>
@@ -100,6 +91,15 @@
       <category>Announcements</category>
       <enclosure url="https://avatars.githubusercontent.com/bgoncal?size=64" length="0" type="image/webp"/>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IoTorero joins Works with Home Assistant</title>
+      <link>https://www.home-assistant.io/blog/2026/07/09/iotorero-joins-works-with-home-assistant/</link>
+      <description>&lt;img src="https://avatars.githubusercontent.com/miranda-gb?size=64" alt="IoTorero joins Works with Home Assistant" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The Works with Home Assistant program powers up this month as we welcome our new partner,IoTorero! 🎉 Experts in pre-flashed smart home hardware, IoTorero bring the very first ESPHome-ready smart plugs and relays to the program (and that’s not all).&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.home-assistant.io/blog/2026/07/09/iotorero-joins-works-with-home-assistant/</guid>
+      <category>Works-with-Home-Assistant</category>
+      <enclosure url="https://avatars.githubusercontent.com/miranda-gb?size=64" length="0" type="image/webp"/>
+      <pubDate>Thu, 09 Jul 2026 00:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
