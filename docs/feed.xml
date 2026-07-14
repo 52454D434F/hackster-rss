@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 20:50:57 +0000</lastBuildDate>
-    <item>
-      <title>This Calculator Has the Most Fascinating Electromechanical Display You’ll Ever See</title>
-      <link>https://www.hackster.io/news/this-calculator-has-the-most-fascinating-electromechanical-display-you-ll-ever-see-240b6662f2cf</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1975667/_NMxpyyzyrt.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Calculator Has the Most Fascinating Electromechanical Display You’ll Ever See" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;lcamtuf built his own digital calculator with a  unique display that would have been feasible in the days before cheap LCDs and seven-&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/this-calculator-has-the-most-fascinating-electromechanical-display-you-ll-ever-see-240b6662f2cf</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1975667/_NMxpyyzyrt.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 22:48:33 +0000</lastBuildDate>
     <item>
       <title>You Can Drive Five Monitors with a Commodore 128</title>
       <link>https://www.hackster.io/news/you-can-drive-five-monitors-with-a-commodore-128-834a5dc7def3</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1975991/_ux2u29lmzO.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="You Can Drive Five Monitors with a Commodore 128" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Think your dual-monitor setup is cool? The 8-Bit Guy used a clever trick to make a 1980s Commodore 128 blast video to 5 CRT TVs!&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/you-can-drive-five-monitors-with-a-commodore-128-834a5dc7def3</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1975991/_ux2u29lmzO.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:59 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:34 +0000</pubDate>
     </item>
     <item>
       <title>The Solar Devboard V1 Keeps Remote Sensors Alive</title>
@@ -30,15 +22,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976017/_U4nuT3dy1Y.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Solar Devboard V1 Keeps Remote Sensors Alive" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Keep remote sensors powered forever with the Solar Devboard V1, an ESP32-C6 board with built-in solar charging hardware.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-solar-devboard-v1-keeps-remote-sensors-alive-59a4bf33b8d1</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976017/_U4nuT3dy1Y.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:59 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:34 +0000</pubDate>
     </item>
     <item>
-      <title>An Input Device Tailored to Vibe Coding</title>
-      <link>https://www.hackster.io/news/an-input-device-tailored-to-vibe-coding-b24ae38b3093</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1975675/_1bHEUYnrkT.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="An Input Device Tailored to Vibe Coding" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A microphone and speech-to-text are all you need for vibe coding, which led Gokux to creating this unique input device tailored the practice&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/an-input-device-tailored-to-vibe-coding-b24ae38b3093</guid>
+      <title>An Input Device Designed Specifically for Vibe Coding</title>
+      <link>https://www.hackster.io/news/an-input-device-designed-specifically-for-vibe-coding-b24ae38b3093</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1975675/_1bHEUYnrkT.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="An Input Device Designed Specifically for Vibe Coding" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A microphone and speech-to-text are all you need for vibe coding, which led Gokux to creating this unique input device tailored the practice&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/an-input-device-designed-specifically-for-vibe-coding-b24ae38b3093</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1975675/_1bHEUYnrkT.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:59 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:34 +0000</pubDate>
     </item>
     <item>
       <title>Manage Arduino, ESP-IDF, and PlatformIO Projects From the Terminal</title>
@@ -46,7 +38,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976088/_a4YYnlyReq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Manage Arduino, ESP-IDF, and PlatformIO Projects From the Terminal" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Streamline your embedded workflow with Anode MCU Manager, a fast, keyboard-driven terminal dashboard for Arduino, ESP-IDF, and PlatformIO.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/manage-arduino-esp-idf-and-platformio-projects-from-the-terminal-6a47c199ea2f</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976088/_a4YYnlyReq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:59 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:34 +0000</pubDate>
     </item>
     <item>
       <title>This DIY E Ink Display Brings Local Bird Sightings to Your Wall</title>
@@ -54,7 +46,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976063/_ICbMCnz0gb.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This DIY E Ink Display Brings Local Bird Sightings to Your Wall" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Inky Bird Frame is an open source E Ink display that automatically shows vintage field-guide art of birds spotted near your home.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-diy-e-ink-display-brings-local-bird-sightings-to-your-wall-dd773e1558e5</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976063/_ICbMCnz0gb.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic</title>
+      <link>https://www.hackster.io/news/pinch-is-a-32-bit-arduino-compatible-dev-board-that-is-practically-microscopic-4cc5f7889ae0</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976119/_CZc4NwAQck.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;The itty bitty Moddo Pinch MDB packs a punch.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/pinch-is-a-32-bit-arduino-compatible-dev-board-that-is-practically-microscopic-4cc5f7889ae0</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1976119/_CZc4NwAQck.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 22:48:34 +0000</pubDate>
     </item>
     <item>
       <title>This $29 Board Is Like a Hackable AirTag</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1970060/_PKQMt90oXZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This $29 Board Is Like a Hackable AirTag" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Escape the walled garden with Nordic's $29 nRF54L15 Tag, compatible with both Apple Find My and Google's Find Hub network.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-29-board-is-like-a-hackable-airtag-5bb8146b8cf8</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1970060/_PKQMt90oXZ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:34 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Pi Meets FPGA on the $50 Forgix</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1972883/_WncqkzVaBq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Raspberry Pi Meets FPGA on the $50 Forgix" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Forgix is a $50 breadboard-friendly development board combining the Raspberry Pi RP2354 with an FPGA for ultimate hardware flexibility.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/raspberry-pi-meets-fpga-on-the-50-forgix-af0e4f156cf6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1972883/_WncqkzVaBq.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:33 +0000</pubDate>
     </item>
     <item>
       <title>The Maker’s Toolbox: Creality Sermoon P1 3D Scanner</title>
@@ -78,7 +78,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1972713/_67Y57K2hzc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Maker’s Toolbox: Creality Sermoon P1 3D Scanner" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;I’ve spent the past several weeks testing the new Creality Sermoon P1 to find out if it meets the high standard set by the Raptor Pro.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-maker-s-toolbox-creality-sermoon-p1-3d-scanner-ac2c200054ba</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1972713/_67Y57K2hzc.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 20:50:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 22:48:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
