@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 17:24:36 +0000</lastBuildDate>
-    <item>
-      <title>Collabora Releases First 64-Bit Arm Arch Linux Packages As It Prepares for Valve's Steam Frame VR</title>
-      <link>https://www.hackster.io/news/collabora-releases-first-64-bit-arm-arch-linux-packages-as-it-prepares-for-valve-s-steam-frame-vr-ae78c23fa883</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1977740/_2d9ifDGZXk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Collabora Releases First 64-Bit Arm Arch Linux Packages As It Prepares for Valve's Steam Frame VR" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Work progresses on a build system which will deliver a continuously-updated Arch Linux port for Valve's virtual reality headset.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/collabora-releases-first-64-bit-arm-arch-linux-packages-as-it-prepares-for-valve-s-steam-frame-vr-ae78c23fa883</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1977740/_2d9ifDGZXk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 19:26:24 +0000</lastBuildDate>
     <item>
       <title>Olimex's PICO-EVB Turns a Raspberry Pi Pico Into an Arduino, MicroPython Mini-PLC</title>
       <link>https://www.hackster.io/news/olimex-s-pico-evb-turns-a-raspberry-pi-pico-into-an-arduino-micropython-mini-plc-60b5ef5cf49c</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1977727/_7AfnrJttkk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Olimex's PICO-EVB Turns a Raspberry Pi Pico Into an Arduino, MicroPython Mini-PLC" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;15A mains-level relays and optoisolated inputs, coupled with an industrial temperature rating, put open hardware in your control projects.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/olimex-s-pico-evb-turns-a-raspberry-pi-pico-into-an-arduino-micropython-mini-plc-60b5ef5cf49c</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1977727/_7AfnrJttkk.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:37 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:25 +0000</pubDate>
     </item>
     <item>
       <title>The Chrome Dinosaur Game Gets Its Own Arcade Cabinet</title>
@@ -30,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1977757/_tkoFvWmPY5.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Chrome Dinosaur Game Gets Its Own Arcade Cabinet" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A hardware hacker built a custom Pong-inspired arcade cabinet dedicated entirely to playing Chrome's offline Dinosaur Game.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-chrome-dinosaur-game-gets-its-own-arcade-cabinet-47373534be4e</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1977757/_tkoFvWmPY5.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:37 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:25 +0000</pubDate>
     </item>
     <item>
       <title>Telling Time Through Literature</title>
@@ -38,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1977784/_yjIMhIpdns.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Telling Time Through Literature" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;LitClock is a simple-to-use E Ink clock that tells time through thousands of literary quotes.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/telling-time-through-literature-20164cff802a</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1977784/_yjIMhIpdns.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:37 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:25 +0000</pubDate>
     </item>
     <item>
       <title>Earn Your Junk Food with This Step-Counting Lock Box</title>
@@ -46,7 +38,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1977798/_05teTI5tqA.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Earn Your Junk Food with This Step-Counting Lock Box" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;You've got to feel the burn before Matty Benedetto's lock box will pop open and let you have a snack.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/earn-your-junk-food-with-this-step-counting-lock-box-8f7f5eb48ea0</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1977798/_05teTI5tqA.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:37 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gone, But Far From Forgotten: Remembering the Zilog Z80 at 50</title>
+      <link>https://www.hackster.io/news/gone-but-far-from-forgotten-remembering-the-zilog-z80-at-50-e05edaeec6ae</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1977826/_My8SAVif9p.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Gone, But Far From Forgotten: Remembering the Zilog Z80 at 50" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Littelfuse may have called time on standalone Z80 parts, but 50 years on from its launch the chip can still draw a crowd.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/gone-but-far-from-forgotten-remembering-the-zilog-z80-at-50-e05edaeec6ae</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1977826/_My8SAVif9p.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 19:26:25 +0000</pubDate>
     </item>
     <item>
       <title>Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976119/_CZc4NwAQck.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Is this the world's smallest Arduino-compatible board? The itty bitty Moddo Pinch packs a punch.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/pinch-is-a-32-bit-arduino-compatible-dev-board-that-is-practically-microscopic-4cc5f7889ae0</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976119/_CZc4NwAQck.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:37 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:25 +0000</pubDate>
     </item>
     <item>
       <title>Voice Control Goes Ultra-Low-Cost with Moonshine Micro</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976599/_17i0iukEyX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Voice Control Goes Ultra-Low-Cost with Moonshine Micro" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Moonshine Micro is a lightweight, open source framework that brings modular, on-device voice interfaces to sub-$1 microcontrollers.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/voice-control-goes-ultra-low-cost-with-moonshine-micro-ea2817ec9d20</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976599/_17i0iukEyX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:36 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:24 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI's Codex Micro Is a $230 Physical Controller for AI Agents</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976937/_NgKa0ZhzsR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OpenAI's Codex Micro Is a $230 Physical Controller for AI Agents" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;OpenAI goes physical with Codex Micro, a $230 macropad designed to give developers total control over their AI coding agents.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/openai-s-codex-micro-is-a-230-physical-controller-for-ai-agents-7cc96d5f63e6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976937/_NgKa0ZhzsR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 17:24:36 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
