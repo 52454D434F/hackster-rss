@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 18:58:46 +0000</lastBuildDate>
-    <item>
-      <title>An Antique Lamp That Responds to Your Every Move</title>
-      <link>https://www.hackster.io/news/an-antique-lamp-that-responds-to-your-every-move-3637ab9e6131</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978577/_gHOjTTzZSN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="An Antique Lamp That Responds to Your Every Move" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Bloom Chandelier breathes life into a vintage floor lamp, using interactive sensors, light, and sound to respond to human presence.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/an-antique-lamp-that-responds-to-your-every-move-3637ab9e6131</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1978577/_gHOjTTzZSN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 20:55:37 +0000</lastBuildDate>
     <item>
       <title>This 3D-Printable WorkBox Delivers an Enclosed Workspace for Messy Projects — On Home 3D Printers</title>
       <link>https://www.hackster.io/news/this-3d-printable-workbox-delivers-an-enclosed-workspace-for-messy-projects-on-home-3d-printers-cc037c3519b4</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978560/_gdHef42nQX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This 3D-Printable WorkBox Delivers an Enclosed Workspace for Messy Projects — On Home 3D Printers" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;A modular design lets even small-volume FFF 3D printers churn out the parts needed to build a sizeable enclosed workstation.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-3d-printable-workbox-delivers-an-enclosed-workspace-for-messy-projects-on-home-3d-printers-cc037c3519b4</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978560/_gdHef42nQX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:49 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 20:55:38 +0000</pubDate>
     </item>
     <item>
       <title>Spare Me the Invoice: $1,600 DIY Bowling System Beats $120K Quote</title>
@@ -30,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978624/_ygr3hf3CR3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Spare Me the Invoice: $1,600 DIY Bowling System Beats $120K Quote" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;An engineer bought a bowling alley and replaced a $120,000 scoring system with $1,600 in ESP32 boards.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/spare-me-the-invoice-1-600-diy-bowling-system-beats-120k-quote-f878ee8be1f6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978624/_ygr3hf3CR3.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:48 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 20:55:38 +0000</pubDate>
     </item>
     <item>
       <title>Mogozen Shows Off the Latest CG Deck Prototypes as the Project Heads to Crowdfunding</title>
@@ -38,7 +30,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978628/_CmWQFE6loW.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Mogozen Shows Off the Latest CG Deck Prototypes as the Project Heads to Crowdfunding" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Modular handheld design enters the home stretch, with plans to release design files once crowdfunding is complete.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/mogozen-shows-off-the-latest-cg-deck-prototypes-as-the-project-heads-to-crowdfunding-ffb6e7561b92</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978628/_CmWQFE6loW.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:48 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 20:55:38 +0000</pubDate>
     </item>
     <item>
       <title>Firewall3D Aims to Protect Your 3D Printer Against Attacks from Malicious Firmware</title>
@@ -46,7 +38,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978638/_2vrWArUZQ0.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Firewall3D Aims to Protect Your 3D Printer Against Attacks from Malicious Firmware" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;An STMicroelectronics STM32-based security gadget, FIrewall3D can detect when something's awry and shut it down before damage occurs.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/firewall3d-aims-to-protect-your-3d-printer-against-attacks-from-malicious-firmware-77c23c4817e6</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978638/_2vrWArUZQ0.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:48 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 20:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>An OpenAI Agent Escaped Its Sandbox to Attack Hugging Face</title>
+      <link>https://www.hackster.io/news/an-openai-agent-escaped-its-sandbox-to-attack-hugging-face-81f5343297f9</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978774/_f9cRKCFvhU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="An OpenAI Agent Escaped Its Sandbox to Attack Hugging Face" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;What happens when an agent manages to escape its sandbox? That is exactly what happened last week when an OpenAI agent broke containment.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/an-openai-agent-escaped-its-sandbox-to-attack-hugging-face-81f5343297f9</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1978774/_f9cRKCFvhU.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 20:55:38 +0000</pubDate>
     </item>
     <item>
       <title>Voice Control Goes Ultra-Low-Cost with Moonshine Micro</title>
@@ -54,7 +54,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976599/_17i0iukEyX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Voice Control Goes Ultra-Low-Cost with Moonshine Micro" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Moonshine Micro is a lightweight, open source framework that brings modular, on-device voice interfaces to sub-$1 microcontrollers.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/voice-control-goes-ultra-low-cost-with-moonshine-micro-ea2817ec9d20</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976599/_17i0iukEyX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:47 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 20:55:38 +0000</pubDate>
     </item>
     <item>
       <title>Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle</title>
@@ -62,7 +62,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978190/_r7F9BAB0Wz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Arduino UNO Q 4GB comes complete with a trio of Modulino modules plus 3D print files for you to build your own RetroArch machine.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/arduino-turns-the-uno-q-into-a-retro-gaming-powerhouse-with-new-arcade-bundle-4bfa6524c368</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978190/_r7F9BAB0Wz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:47 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 20:55:37 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Pi Scales Up, Launches the Bigger Touch Display 2 10" Portrait</title>
@@ -70,7 +70,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978206/_DPN8hogYlh.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Raspberry Pi Scales Up, Launches the Bigger Touch Display 2 10" Portrait" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Bigger display comes with a higher resolution, native 10-point capacitive multitouch in Raspberry Pi OS.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/raspberry-pi-scales-up-launches-the-bigger-touch-display-2-10-portrait-6c88878361d1</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978206/_DPN8hogYlh.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:58:46 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 20:55:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
