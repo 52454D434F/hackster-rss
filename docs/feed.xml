@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 10:16:14 +0000</lastBuildDate>
-    <item>
-      <title>The Software Revolution Has Come for Optics</title>
-      <link>https://www.hackster.io/news/the-software-revolution-has-come-for-optics-196afbcdcb5e</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978172/_GpE0VCcNuC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Software Revolution Has Come for Optics" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;University of Stuttgart researchers built a programmable metasurface that uses software to reshape light and project holograms on demand.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/the-software-revolution-has-come-for-optics-196afbcdcb5e</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1978172/_GpE0VCcNuC.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle</title>
-      <link>https://www.hackster.io/news/arduino-turns-the-uno-q-into-a-retro-gaming-powerhouse-with-new-arcade-bundle-4bfa6524c368</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978190/_r7F9BAB0Wz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Arduino UNO Q 4GB comes complete with a trio of Modulino modules plus 3D-print files for you to build your own RetroArch machine.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/arduino-turns-the-uno-q-into-a-retro-gaming-powerhouse-with-new-arcade-bundle-4bfa6524c368</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1978190/_r7F9BAB0Wz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 13:23:10 +0000</lastBuildDate>
     <item>
       <title>This Modded Multimeter Streams Its Screen Straight to Your Browser</title>
       <link>https://www.hackster.io/news/this-modded-multimeter-streams-its-screen-straight-to-your-browser-c46d844be09b</link>
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978213/_NKkUaXs1BD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="This Modded Multimeter Streams Its Screen Straight to Your Browser" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;AirMeter is a modified multimeter that spies on LCD signals to wirelessly stream live measurements to a web browser.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/this-modded-multimeter-streams-its-screen-straight-to-your-browser-c46d844be09b</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978213/_NKkUaXs1BD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:15 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 13:23:11 +0000</pubDate>
     </item>
     <item>
       <title>The Prusa Nextruder’s Built-In Sensor Can Handle Pressure Advance Calibration</title>
@@ -38,7 +22,7 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978271/_jwjP3P3uUx.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Prusa Nextruder’s Built-In Sensor Can Handle Pressure Advance Calibration" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Stefan from CNC Kitchen found a way to use the Prusa Nextruder’s existing sensor system for automatic pressure advance tuning.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-prusa-nextruder-s-built-in-sensor-can-handle-pressure-advance-calibration-7d90796e2bc2</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978271/_jwjP3P3uUx.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:15 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 13:23:10 +0000</pubDate>
     </item>
     <item>
       <title>The Popular Chitu PlateCycler Is Coming to the Bambu A1</title>
@@ -46,15 +30,15 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978309/_e2ae4ygJPG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The Popular Chitu PlateCycler Is Coming to the Bambu A1" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Chitu Systems is launching a new version of their hit PlateCycler for the Bambu Lab A1.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/the-popular-chitu-platecycler-is-coming-to-the-bambu-a1-0301a3b8e1e3</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1978309/_e2ae4ygJPG.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:15 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 13:23:10 +0000</pubDate>
     </item>
     <item>
-      <title>Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic</title>
-      <link>https://www.hackster.io/news/pinch-is-a-32-bit-arduino-compatible-dev-board-that-is-practically-microscopic-4cc5f7889ae0</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976119/_CZc4NwAQck.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Is this the world's smallest Arduino-compatible board? The itty bitty Moddo Pinch packs a punch.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/pinch-is-a-32-bit-arduino-compatible-dev-board-that-is-practically-microscopic-4cc5f7889ae0</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1976119/_CZc4NwAQck.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:15 +0000</pubDate>
+      <title>The BloomBeacon Uses Persistence-of-Vision to Produce On-Demand Floating Touchscreens</title>
+      <link>https://www.hackster.io/news/the-bloombeacon-uses-persistence-of-vision-to-produce-on-demand-floating-touchscreens-90668d613831</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978526/_66O6WkZHnS.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="The BloomBeacon Uses Persistence-of-Vision to Produce On-Demand Floating Touchscreens" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;3D-printed arched sensors on one blade and LEDs on another allow BloomBeacon to create a "floating" interactive display anywhere.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/the-bloombeacon-uses-persistence-of-vision-to-produce-on-demand-floating-touchscreens-90668d613831</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1978526/_66O6WkZHnS.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 13:23:10 +0000</pubDate>
     </item>
     <item>
       <title>Voice Control Goes Ultra-Low-Cost with Moonshine Micro</title>
@@ -62,15 +46,23 @@
       <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976599/_17i0iukEyX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Voice Control Goes Ultra-Low-Cost with Moonshine Micro" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Moonshine Micro is a lightweight, open source framework that brings modular, on-device voice interfaces to sub-$1 microcontrollers.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.hackster.io/news/voice-control-goes-ultra-low-cost-with-moonshine-micro-ea2817ec9d20</guid>
       <enclosure url="https://hackster.imgix.net/uploads/attachments/1976599/_17i0iukEyX.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:15 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 13:23:10 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI's Codex Micro Is a $230 Physical Controller for AI Agents</title>
-      <link>https://www.hackster.io/news/openai-s-codex-micro-is-a-230-physical-controller-for-ai-agents-7cc96d5f63e6</link>
-      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1976937/_NgKa0ZhzsR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="OpenAI's Codex Micro Is a $230 Physical Controller for AI Agents" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;OpenAI goes physical with Codex Micro, a $230 macropad designed to give developers total control over their AI coding agents.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.hackster.io/news/openai-s-codex-micro-is-a-230-physical-controller-for-ai-agents-7cc96d5f63e6</guid>
-      <enclosure url="https://hackster.imgix.net/uploads/attachments/1976937/_NgKa0ZhzsR.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 10:16:14 +0000</pubDate>
+      <title>Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle</title>
+      <link>https://www.hackster.io/news/arduino-turns-the-uno-q-into-a-retro-gaming-powerhouse-with-new-arcade-bundle-4bfa6524c368</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978190/_r7F9BAB0Wz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Arduino UNO Q 4GB comes complete with a trio of Modulino modules plus 3D-print files for you to build your own RetroArch machine.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/arduino-turns-the-uno-q-into-a-retro-gaming-powerhouse-with-new-arcade-bundle-4bfa6524c368</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1978190/_r7F9BAB0Wz.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 13:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Scales Up, Launches the Bigger Touch Display 2 10" Portrait</title>
+      <link>https://www.hackster.io/news/raspberry-pi-scales-up-launches-the-bigger-touch-display-2-10-portrait-6c88878361d1</link>
+      <description>&lt;img src="https://hackster.imgix.net/uploads/attachments/1978206/_DPN8hogYlh.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Raspberry Pi Scales Up, Launches the Bigger Touch Display 2 10" Portrait" style="max-width:100%;" /&gt;&lt;br/&gt;&lt;p&gt;Bigger display comes with a higher resolution, native 10-point capacitive multitouch in Raspberry Pi OS.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.hackster.io/news/raspberry-pi-scales-up-launches-the-bigger-touch-display-2-10-portrait-6c88878361d1</guid>
+      <enclosure url="https://hackster.imgix.net/uploads/attachments/1978206/_DPN8hogYlh.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 13:23:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
